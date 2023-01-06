@@ -1,6 +1,16 @@
+import argparse
 import json
 import re
 from copy import deepcopy
+
+
+def init_argparser() -> argparse.ArgumentParser:
+    parent_parser = argparse.ArgumentParser(
+        description="KU class information tool")
+    parent_parser.add_argument(
+        "-s", "--simplify", action="store_true", dest="simple", help="Simplify data file")
+
+    return parent_parser
 
 
 def load_file(fileName: str) -> json:
@@ -71,4 +81,10 @@ def simplify_data():
 
 
 if __name__ == "__main__":
-    simplify_data()
+    arg_parser = init_argparser()
+    args = arg_parser.parse_args()
+    simplify = args.simple
+    if (simplify):
+        simplify_data()
+    else:
+        print("Use 'python data_munger.py -h' to discover options")

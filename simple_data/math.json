@@ -1,0 +1,860 @@
+{
+  "MATH 101": {
+    "4212": {
+      "miniDesc": "MATH 101 Mathematics - College Algebra: ( 3 / GE12 / QR / U )",
+      "description": "Coordinate systems, functions and their graphs; linear, quadratic, general polynomial, rational, exponential, and logarithmic functions; equations and inequalities; and linear and non-linear systems. Data Driven sections are intended for non-STEM majors and cover college algebra content with increased emphasis on context and interpretation of data, and decreased emphasis on symbolic manipulation. Enrollment in Enhanced sections will benefit students by providing additional instructional time and integrated review of some prerequisite material. Students in Enhanced sections must enroll in Math 197 as a co-requisite. Not open to students with credit in MATH 104. Prerequisite: MATH 002, or two years of high school algebra and a score of 22 or higher on ACT mathematics, or a qualifying score on the mathematics placement test. Students with slightly lower ACT scores may be admitted to Enhanced sections based on high school GPA. Satisfies: Goal 1 Outcome 2 (GE12) , BA Quantitative Reasoning (QR) , U Undesignated elective (U)",
+      "terms": [
+        "4212",
+        "4216",
+        "4219",
+        "4222",
+        "4226",
+        "4229",
+        "4232",
+        "4236",
+        "4239"
+      ]
+    }
+  },
+  "MATH 103": {
+    "4212": {
+      "miniDesc": "MATH 103 Mathematics - Trigonometry ( 2 / U )",
+      "description": "The circular functions and their applications. Not open to students with credit in MATH 104. May not be used to fulfill the College mathematics requirement.\r Prerequisite: MATH 101, or two years of high school algebra and a score of 26 or higher on enhanced ACT mathematics, or a qualifying score on the mathematics placement test. Satisfies: U Undesignated elective (U)",
+      "terms": [
+        "4212",
+        "4216",
+        "4219",
+        "4222",
+        "4226",
+        "4229",
+        "4232",
+        "4236",
+        "4239"
+      ]
+    }
+  },
+  "MATH 104": {
+    "4212": {
+      "miniDesc": "MATH 104 Mathematics - Precalculus Mathematics ( 5 / GE12 / QR / U )",
+      "description": "An introduction to the elementary functions (polynomial, rational, exponential, logarithmic, and trigonometric) and their properties. Open for only two hours credit for students with credit in MATH 101. Not open to students with credit in MATH 103. Prerequisite: MATH 002, or two years of high school algebra and a score of 22 or higher on ACT mathematics, or a qualifying score on the mathematics placement test. Satisfies: Goal 1 Outcome 2 (GE12) , BA Quantitative Reasoning (QR) , U Undesignated elective (U)",
+      "terms": [
+        "4212",
+        "4216",
+        "4219",
+        "4222",
+        "4226",
+        "4229",
+        "4232",
+        "4236",
+        "4239"
+      ]
+    }
+  },
+  "MATH 105": {
+    "4212": {
+      "miniDesc": "MATH 105 Mathematics - Introduction to Topics in Math ( 3 / GE12 / N / QR )",
+      "description": "This course has two purposes. First, to provide the student with some experience and insight into several areas of mathematics not normally covered in elementary courses. Typical topics which may be covered are number theory, geometries, introductory calculus, introductory probability and statistics. Second, to provide the student with some skill in handling abstract mathematical concepts. The material will develop dually the intuitive and axiomatic approach. A high degree of manipulative skill is not required for this course. Prerequisite: MATH 101 or MATH 104, or two years of high school algebra and a score of 26 or higher on ACT mathematics, or a qualifying score on the mathematics placement test. Satisfies: Goal 1 Outcome 2 (GE12) , N Natural Science (N) , BA Quantitative Reasoning (QR)",
+      "terms": ["4212"]
+    },
+    "4216": {
+      "miniDesc": "MATH 105 Mathematics - Intro Quantitative Reasoning ( 3 / GE12 / N / QR )",
+      "description": "This diverse course introduces students to foundational quantitative reasoning skills that will assist them throughout their college-level work and beyond. Topics may include logic and problem solving, personal finance, elementary statistics and data analysis, voting theory and fair division problems, basic linear programming, and network theory. Students taking this class will gain an appreciation for how mathematical thinking can be used in everyday decision making. Prerequisite: MATH 101 or MATH 104, or two years of high school algebra and a score of 26 or higher on ACT mathematics, or a qualifying score on the mathematics placement test. Satisfies: Goal 1 Outcome 2 (GE12) , N Natural Science (N) , BA Quantitative Reasoning (QR)",
+      "terms": ["4216", "4219", "4222", "4226", "4229", "4232", "4236", "4239"]
+    }
+  },
+  "MATH 109": {
+    "4212": {
+      "miniDesc": "MATH 109 Mathematics - Math Elemntry School Teachrs I ( 3 / U )",
+      "description": "This course is designed to give the prospective elementary school teacher an overview of several components of the elementary school mathematics curriculum, including number systems, estimation, inequalities and order, sequences and patterns, sets, and relations and functions. The class meets each week for three one-hour instruction sessions and one two-hour laboratory session. This course may not be used to satisfy the College mathematics requirement. Prerequisite: MATH 101 or equivalent placement. Satisfies: U Undesignated elective (U)",
+      "terms": ["4212", "4222", "4232"]
+    }
+  },
+  "MATH 110": {
+    "4219": {
+      "miniDesc": "MATH 110 Mathematics - Math Elmntry School Teachrs II ( 3 / U )",
+      "description": "Continuation of MATH 109, including geometry (including transformations) and elementary probability and statistics. Class meets each week for three one-hour instruction sessions and one two-hour laboratory session. This course does not serve as a prerequisite for any mathematics course. It may not be used to satisfy the College mathematics requirement. Prerequisite: MATH 109. Satisfies: U Undesignated elective (U)",
+      "terms": ["4219", "4229", "4239"]
+    }
+  },
+  "MATH 115": {
+    "4212": {
+      "miniDesc": "MATH 115 Mathematics - Calculus I ( 3 / GE12 / N / QR )",
+      "description": "Elementary differential and integral calculus, with applications in management and the biological sciences. Not open to students with credit in MATH 125 or MATH 145. Prerequisite: MATH 101 or MATH 104, or two years of high school algebra and a score of 26 or higher on ACT mathematics, or a qualifying score on the mathematics placement test. Satisfies: Goal 1 Outcome 2 (GE12) , N Natural Science (N) , BA Quantitative Reasoning (QR)",
+      "terms": [
+        "4212",
+        "4216",
+        "4219",
+        "4222",
+        "4226",
+        "4229",
+        "4232",
+        "4236",
+        "4239"
+      ]
+    }
+  },
+  "MATH 116": {
+    "4212": {
+      "miniDesc": "MATH 116 Mathematics - Calculus II ( 3 / N / NM / QR )",
+      "description": "Continuation of MATH 115 including exponential, logarithmic, and trigonometric functions, techniques of integration, and the calculus of functions of several variables. Not open to students with credit in MATH 127 or MATH 147. Prerequisite: MATH 115 plus a course in trigonometry, or MATH 125 or MATH 145. MATH 103 may be taken concurrently. Satisfies: N Natural Science (N) , NM Mathematical Sciences PC (NM) , BA Quantitative Reasoning (QR)",
+      "terms": [
+        "4212",
+        "4216",
+        "4219",
+        "4222",
+        "4226",
+        "4229",
+        "4232",
+        "4236",
+        "4239"
+      ]
+    }
+  },
+  "MATH 125": {
+    "4212": {
+      "miniDesc": "MATH 125 Mathematics - Calculus I ( 4 / GE12 / N / QR )",
+      "description": "Limits, continuity and derivatives of algebraic, trigonometric, exponential and logarithmic functions. Curve sketching, optimization and other applications of the derivative. Antiderivatives, Riemann sums, the definite integral, and the fundamental theorem of calculus. Open for only 1 hour credit to students with credit in MATH 115. Not open for credit to students with credit in MATH 116 or MATH 145. Prerequisite: MATH 103 or MATH 104, with a grade of C- or higher; or 3 years of college preparatory mathematics including trigonometry, with a score of 28 or higher on the ACT Mathematics exam. Satisfies: Goal 1 Outcome 2 (GE12) , N Natural Science (N) , BA Quantitative Reasoning (QR)",
+      "terms": [
+        "4212",
+        "4216",
+        "4219",
+        "4222",
+        "4226",
+        "4229",
+        "4232",
+        "4236",
+        "4239"
+      ]
+    }
+  },
+  "MATH 126": {
+    "4212": {
+      "miniDesc": "MATH 126 Mathematics - Calculus II ( 4 / N / QR )",
+      "description": "Techniques of integration, including integration by parts. Applications of integration, including volume, arc length, work and average value. Infinite sequences and series and Taylor series. Polar coordinates, vectors and the geometry of space. Open for only 2 hours of credit to students with credit in MATH 116. Not open for credit to students with credit in MATH 146. Prerequisite: MATH 116, MATH 125, or MATH 145, with a grade of C- or higher. Satisfies: N Natural Science (N) , BA Quantitative Reasoning (QR)",
+      "terms": [
+        "4212",
+        "4216",
+        "4219",
+        "4222",
+        "4226",
+        "4229",
+        "4232",
+        "4236",
+        "4239"
+      ]
+    }
+  },
+  "MATH 127": {
+    "4212": {
+      "miniDesc": "MATH 127 Mathematics - Calculus III ( 4 / N / QR )",
+      "description": "Multivariable functions, partial derivatives and their applications, multiple integrals and their applications. Vector-valued functions, line and surface integrals, Green, Gauss and Stokes Theorems. Not open for credit to students with credit in MATH 147. Prerequisite: MATH 126 or MATH 146, with a grade of C- or higher. Satisfies: N Natural Science (N) , BA Quantitative Reasoning (QR)",
+      "terms": [
+        "4212",
+        "4216",
+        "4219",
+        "4222",
+        "4226",
+        "4229",
+        "4232",
+        "4236",
+        "4239"
+      ]
+    }
+  },
+  "MATH 145": {
+    "4219": {
+      "miniDesc": "MATH 145 Mathematics - Calculus I, Honors ( 4 / Honors / GE12 / N / NM / QR )",
+      "description": "Limits, continuity and derivatives of algebraic, trigonometric, exponential and logarithmic functions. Curve sketching, optimization and other applications of the derivative. Antiderivatives, Riemann sums, the definite integral, and the fundamental theorem of calculus. Open for only 1 hour credit to students with credit in MATH 115. Not open for credit to students with credit in MATH 116 or MATH 125. Prerequisite: An ACT Math score of 34 or higher, or membership in the University Honors Program and an ACT Math score of 32 or higher. Satisfies: Goal 1 Outcome 2 (GE12) , N Natural Science (N) , NM Mathematical Sciences PC (NM) , BA Quantitative Reasoning (QR) , Honors",
+      "terms": ["4219", "4229", "4239"]
+    }
+  },
+  "MATH 146": {
+    "4212": {
+      "miniDesc": "MATH 146 Mathematics - Calculus II, Honors ( 4 / Honors / N / QR )",
+      "description": "Techniques of integration, including integration by parts. Applications of integration, including volume, arc length, work and average value. Infinite sequences and series and Taylor series. Polar coordinates, vectors and the geometry of space. Open for only 2 hours credit to students with credit in MATH 116. Not open for credit to students with credit in MATH 126. Prerequisite: MATH 125, or MATH 145, with a grade of C- or higher; and invitation of the Department of Mathematics. Satisfies: N Natural Science (N) , BA Quantitative Reasoning (QR) , Honors",
+      "terms": ["4212", "4219", "4222", "4229", "4232", "4239"]
+    }
+  },
+  "MATH 147": {
+    "4212": {
+      "miniDesc": "MATH 147 Mathematics - Calculus III, Honors ( 4 / Honors / N / QR )",
+      "description": "Multivariable functions, partial derivatives and their applications, multiple integrals and their applications. Vector-valued functions, line and surface integrals, Green, Gauss and Stokes Theorems. Not open for credit to students with credit in MATH 127. Prerequisite: MATH 126 or MATH 146, with a grade of C- or higher; and invitation of the Department of Mathematics. Satisfies: N Natural Science (N) , BA Quantitative Reasoning (QR) , Honors",
+      "terms": ["4212", "4219", "4222", "4229", "4232", "4239"]
+    }
+  },
+  "MATH 197": {
+    "4212": {
+      "miniDesc": "MATH 197 Mathematics - Mathematical Workshops: ( 1-3 / U )",
+      "description": "Offered to provide opportunities for deeper understanding of freshman-sophomore mathematics through interactive learning. Topics will vary. May be repeated for additional credit. Prerequisite: Variable. Satisfies: U Undesignated elective (U)",
+      "terms": ["4212", "4219", "4222", "4229", "4232", "4239"]
+    }
+  },
+  "MATH 2": {
+    "4212": {
+      "miniDesc": "MATH 2 Mathematics - Intermediate Mathematics ( 3 / U )",
+      "description": "Mathematics (primarily algebra) preparatory to MATH 101. Qualification: Two years of high school college preparatory mathematics, algebra and geometry, and a score of 16 or more on ACT mathematics; or a qualifying score on the mathematics placement test. MATH 002 is the lowest level mathematics course offered at the University of Kansas. Students not prepared for MATH 101 will be permitted to enroll in MATH 002. However, before enrolling in MATH 002, such students are encouraged to prepare by self-study or by completing a beginning algebra course in high school, community college, or correspondence study. Satisfies: U Undesignated elective (U)",
+      "terms": ["4212"]
+    },
+    "4216": {
+      "miniDesc": "MATH 2 Mathematics - Intermediate Mathematics ( 3 / U )",
+      "description": "Mathematics (primarily algebra) preparatory to MATH 101. Topics include: solving linear equations, inequalities, and system; solving quadratic, radical, and rational equations; and introduction to imaginary numbers. Qualification: Two years of high school college preparatory mathematics, algebra and geometry, and a score of 16 or more on ACT mathematics; or a qualifying score on the mathematics placement test. MATH 002 is the lowest level mathematics course offered at the University of Kansas, and does not count towards the 120 credit hours required for graduation. Students not prepared for MATH 101 will be permitted to enroll in MATH 002. However, before enrolling in MATH 002, such students are encouraged to prepare by self-study or by completing a beginning algebra course in high school, community college, or correspondence study. Satisfies: U Undesignated elective (U)",
+      "terms": ["4216", "4219", "4222", "4226", "4229", "4232", "4236", "4239"]
+    }
+  },
+  "MATH 209": {
+    "4219": {
+      "miniDesc": "MATH 209 Mathematics - Functions and Modeling ( 3 / N )",
+      "description": "Study of the use of functions in mathematical modeling, with topics drawn from algebra, analytic geometry, statistics, trigonometry, and calculus. These topics include function properties and patterns, complex numbers, parametric and polar equations, vectors and various growth models. The course also includes inquiry methods, collaborative problem solving, the use of multiple representations and data analysis techniques, and the justification and presentation of results. Central to the course are investigative labs employing various technologies and software. The course is designed to help prepare students for secondary school mathematics teaching. (Same as PHSX 209.) Prerequisite: MATH 126 or MATH 146. Satisfies: N Natural Science (N)",
+      "terms": ["4219", "4229", "4239"]
+    }
+  },
+  "MATH 220": {
+    "4212": {
+      "miniDesc": "MATH 220 Mathematics - Applied Differential Equations ( 3 / N )",
+      "description": "Linear ordinary differential equations, Laplace transforms, systems of equations, and applications. Not open to those who have taken MATH 320. Prerequisite: MATH 126 or MATH 146 with grade of C- or higher; previous or concurrent enrollment in MATH 290 or MATH 291 recommended. Satisfies: N Natural Science (N)",
+      "terms": [
+        "4212",
+        "4216",
+        "4219",
+        "4222",
+        "4226",
+        "4229",
+        "4232",
+        "4236",
+        "4239"
+      ]
+    }
+  },
+  "MATH 221": {
+    "4212": {
+      "miniDesc": "MATH 221 Mathematics - Apl Differential Equations,Hnr ( 3 / Honors / N )",
+      "description": "Linear Ordinary Differential Equations, Laplace Transforms, Systems of Equations, Enrichment Applications. Prerequisite: MATH 126 or MATH 146 with grade of C- or higher, and invitation from the Department of Mathematics; previous or concurrent enrollment in MATH 290 or MATH 291 recommended. Not open to students with credit in MATH 320. Satisfies: N Natural Science (N) , Honors",
+      "terms": ["4212", "4219", "4222", "4229", "4232", "4239"]
+    }
+  },
+  "MATH 290": {
+    "4212": {
+      "miniDesc": "MATH 290 Mathematics - Elementary Linear Algebra ( 2 / N )",
+      "description": "Systems of linear equations, matrices, vector spaces, linear transformations, and applications. Not open to those who have taken MATH 590. Prerequisite: MATH 126 or MATH 146 with grade of C- or higher. Satisfies: N Natural Science (N)",
+      "terms": [
+        "4212",
+        "4216",
+        "4219",
+        "4222",
+        "4226",
+        "4229",
+        "4232",
+        "4236",
+        "4239"
+      ]
+    }
+  },
+  "MATH 291": {
+    "4212": {
+      "miniDesc": "MATH 291 Mathematics - Elementary Linear Algebra, Hnr ( 2 / Honors / N )",
+      "description": "Systems of Linear Equations, Matrices, Vector Spaces, Linear Transformations, Enrichment Applications. Prerequisite: MATH 126 or MATH 146 with a grade of C- or higher, and invitation from the Department of Mathematics. Not open to students who have taken MATH 590. Satisfies: N Natural Science (N) , Honors",
+      "terms": ["4212", "4219", "4222", "4229", "4232", "4239"]
+    }
+  },
+  "MATH 296": {
+    "4219": {
+      "miniDesc": "MATH 296 Mathematics - Special Topics: ( 1-3 / N )",
+      "description": "Designed for the study of special topics in mathematics at the freshman/sophomore level. May be repeated for additional credit; does not count toward the major or minor in mathematics. Prerequisite: Variable. Satisfies: N Natural Science (N)",
+      "terms": ["4219", "4222"]
+    }
+  },
+  "MATH 320": {
+    "4212": {
+      "miniDesc": "MATH 320 Mathematics - Elementry Differential Equatns ( 3 / N )",
+      "description": "Linear ordinary differential equations, series solutions. Laplace transforms. Systems of equations. Not open to those who have taken MATH 220. Prerequisite: MATH 127 or MATH 147 with a grade of C- or higher, and MATH 290 or MATH 291. Satisfies: N Natural Science (N)",
+      "terms": ["4212", "4232"]
+    }
+  },
+  "MATH 365": {
+    "4212": {
+      "miniDesc": "MATH 365 Mathematics - Elementary Statistics ( 3 / GE12 / N / QR )",
+      "description": "Elementary descriptive statistics of a sample of measurements; probability; the binomial, Poisson, and normal distributions, populations and sampling from populations; simple problems of statistical inference. May not be counted for junior-senior credit toward a major in mathematics. Not open to students with credit in DSCI 202, BIOL 570, MATH 465, MATH 526, or MATH 628. Prerequisite: MATH 101, MATH 104, or two years of high school algebra and a score of 26 or higher on ACT mathematics, or a qualifying score on the mathematics placement test. Satisfies: Goal 1 Outcome 2 (GE12) , N Natural Science (N) , BA Quantitative Reasoning (QR)",
+      "terms": [
+        "4212",
+        "4216",
+        "4219",
+        "4222",
+        "4226",
+        "4229",
+        "4232",
+        "4236",
+        "4239"
+      ]
+    }
+  },
+  "MATH 409": {
+    "4212": {
+      "miniDesc": "MATH 409 Mathematics - Tpc Geomtry Sec/Midl Schl Tchr ( 2 / N )",
+      "description": "Study of selected topics from Euclidean, non-Euclidean, and transformation geometry chosen to give breadth to the mathematical background of secondary and middle school teachers. May not be counted for junior-senior credit towards a major in mathematics. Prerequisite: MATH 126 or MATH 146. Students enrolled in MATH 409 must concurrently enroll in MATH 410. Satisfies: N Natural Science (N)",
+      "terms": ["4212", "4222", "4232"]
+    }
+  },
+  "MATH 410": {
+    "4212": {
+      "miniDesc": "MATH 410 Mathematics - Top Hist Mathmt Scnd&Mid Tchrs ( 1 / N )",
+      "description": "Study of selected topics from mathematical history chosen to provide students with knowledge of major historical developments in mathematics including individual contributions and contributions from different cultures. These topics will include a historical development of Euclidean and non-Euclidean geometry. May not be counted for junior-senior credit towards a major in mathematics. Prerequisite: MATH 126 or MATH 146. Students enrolled in MATH 410 must concurrently enroll in MATH 409. Satisfies: N Natural Science (N)",
+      "terms": ["4212", "4222", "4232"]
+    }
+  },
+  "MATH 450": {
+    "4212": {
+      "miniDesc": "MATH 450 Mathematics - Discrete Mathematics ( 3 / N )",
+      "description": "Basic topics in discrete mathematics including sets, logic, relations and functions, graphs and combinatorics. Advanced topics chosen from partially ordered sets and lattices, Boolean algebras, automata, game theory, coding theory, cryptography, optimization and enumeration. Prerequisite: MATH 290. Satisfies: N Natural Science (N)",
+      "terms": ["4212", "4222", "4232"]
+    }
+  },
+  "MATH 500": {
+    "4212": {
+      "miniDesc": "MATH 500 Mathematics - Intermediate Analysis ( 3 / N )",
+      "description": "A careful formulation of convergence and limits of sequences and functions; continuity and properties of continuous functions; differentiation; the Riemann integral; mean-value theorems and the fundamental theorem of calculus. Not open to students with credit in MATH 765. Prerequisite: MATH 127 or MATH 147, and MATH 290 or MATH 291. Satisfies: N Natural Science (N)",
+      "terms": ["4212", "4219", "4222", "4229", "4232", "4239"]
+    }
+  },
+  "MATH 510": {
+    "4212": {
+      "miniDesc": "MATH 510 Mathematics - Introdn to Theory of Computing ( 3 / N )",
+      "description": "Finite state automata and regular expressions. Context-free grammars and pushdown automata. Turing machines. Models of computable functions and undecidable problems. The course emphasis is on the theory of computability, especially on showing limits of computation. (Same as EECS 510.) Prerequisite: EECS 210 and upper-level EECS eligibility. Satisfies: N Natural Science (N)",
+      "terms": ["4212", "4219", "4222", "4229", "4232", "4239"]
+    }
+  },
+  "MATH 526": {
+    "4212": {
+      "miniDesc": "MATH 526 Mathematics - Appld Mathematicl Statistics I ( 3 / N / NM )",
+      "description": "A first course in statistics for students with the techniques of calculus at their disposal. The following topics are studied with illustrations and problems drawn from various fields of applications: basic notions of probability and probability distributions; classical estimation and testing procedures for one and two sample problems; chi-square test. Not open to those with credit in MATH 628. Prerequisite: MATH 127 or MATH 147 or MATH 116 (MATH 127 or MATH 147 recommended.) Satisfies: N Natural Science (N) , NM Mathematical Sciences PC (NM)",
+      "terms": [
+        "4212",
+        "4216",
+        "4219",
+        "4222",
+        "4226",
+        "4229",
+        "4232",
+        "4236",
+        "4239"
+      ]
+    }
+  },
+  "MATH 540": {
+    "4232": {
+      "miniDesc": "MATH 540 Mathematics - Elementary Number Theory ( 3 / N )",
+      "description": "Divisibility, primes and their distribution, the Euclidean algorithm, perfect numbers, Fermat's theorem, Diophantine equations, applications to cryptography. Prerequisite: MATH 127 or MATH 147. Satisfies: N Natural Science (N)",
+      "terms": ["4232"]
+    }
+  },
+  "MATH 558": {
+    "4212": {
+      "miniDesc": "MATH 558 Mathematics - Introductory Modern Algebra ( 3 / N )",
+      "description": "Development of the number systems. Polynomials. Introduction to abstract number systems such as groups and fields. Not open to students with credit in MATH 791. Prerequisite: MATH 290 or MATH 291. Satisfies: N Natural Science (N)",
+      "terms": ["4212", "4219", "4222", "4229", "4232", "4239"]
+    }
+  },
+  "MATH 581": {
+    "4219": {
+      "miniDesc": "MATH 581 Mathematics - Numerical Methods ( 3 / N )",
+      "description": "An introduction to numerical methods and their application to engineering and science problems. Applied treatment of elementary algorithms selected from the subject areas: finding roots of a single nonlinear equation, numerical differentiation and integration, numerical solution of ordinary differential equations. Emphasis on implementing numerical algorithms using the computer. Not open to students with credit in MATH 781 or MATH 782. Prerequisite: MATH 220 and MATH 290, or MATH 320. Satisfies: N Natural Science (N)",
+      "terms": ["4219", "4229", "4239"]
+    }
+  },
+  "MATH 582": {
+    "4219": {
+      "miniDesc": "MATH 582 Mathematics - Computational Data Science ( 3 / N )",
+      "description": "This course provides an introduction to topics in data science and machine learning with an emphasis on computation and applications. Programming for the course uses the student's choice of Matlab, Python, or R. Topics covered include dimension reduction, regression techniques, density estimation, machine learning, data assimilation, and clustering and classification techniques. Prerequisite: MATH 290 or equivalent. Satisfies: N Natural Science (N)",
+      "terms": ["4219", "4229", "4239"]
+    }
+  },
+  "MATH 590": {
+    "4212": {
+      "miniDesc": "MATH 590 Mathematics - Linear Algebra ( 3 / N )",
+      "description": "Vector spaces, linear transformations, and matrices. Canonical forms, Determinants. Hermitian, unitary and normal transformations. Not open to students with credit in MATH 792. Prerequisite: MATH 127 or MATH 147, and MATH 290 or MATH 291. Satisfies: N Natural Science (N)",
+      "terms": [
+        "4212",
+        "4216",
+        "4219",
+        "4222",
+        "4226",
+        "4229",
+        "4232",
+        "4236",
+        "4239"
+      ]
+    }
+  },
+  "MATH 591": {
+    "4212": {
+      "miniDesc": "MATH 591 Mathematics - Appld Numerical Linear Algebra ( 3 / N )",
+      "description": "An introduction to numerical linear algebra. Possible topics include: applied canonical forms, matrix factorizations, perturbation theory, systems of linear equations, linear least squares, singular value decomposition, algebraic eigenvalue problems, matrix functions, and the use of computational software. Not open to students with credit in MATH 780 or MATH 782. Prerequisite: MATH 290 or MATH 291. EECS 138 or equivalent recommended. Satisfies: N Natural Science (N)",
+      "terms": ["4212", "4222"]
+    },
+    "4232": {
+      "miniDesc": "MATH 591 Mathematics - Appld Numerical Linear Algebra ( 3 / N )",
+      "description": "An introduction to numerical linear algebra. Possible topics include: applied canonical forms, matrix factorizations, perturbation theory, systems of linear equations, linear least squares, singular value decomposition, algebraic eigenvalue problems, matrix functions, and the use of computational software. Not open to students with credit in MATH 782. Prerequisite: MATH 290 or MATH 291. EECS 138 or equivalent recommended. Satisfies: N Natural Science (N)",
+      "terms": ["4232"]
+    }
+  },
+  "MATH 596": {
+    "4222": {
+      "miniDesc": "MATH 596 Mathematics - Special Topics: ( 1-3 / N )",
+      "description": "Arranged as needed to present appropriate material to groups of students. May be repeated for additional credit. Prerequisite: Variable. Satisfies: N Natural Science (N)",
+      "terms": ["4222"]
+    }
+  },
+  "MATH 601": {
+    "4222": {
+      "miniDesc": "MATH 601 Mathematics - Algebraic Topics in Computing: ( 3 / N )",
+      "description": "Topics motivated by applications in computer science, studied from a mathematical perspective, and based on methods from linear and abstract algebra. Examples of topics include error-correcting codes, cryptography, and computer algebra. May be repeated with different topics for additional credit. Prerequisite: MATH 290 or MATH 291. Satisfies: N Natural Science (N)",
+      "terms": ["4222"]
+    }
+  },
+  "MATH 605": {
+    "4219": {
+      "miniDesc": "MATH 605 Mathematics - Applied Regression Analysis ( 3 / N )",
+      "description": "The matrix approach to regression. Weighted least squares, transformations, examination of residuals, model selection, and analysis of variance. Prerequisite: MATH 290 or MATH 291, and MATH 526 or MATH 628. Satisfies: N Natural Science (N)",
+      "terms": ["4219"]
+    },
+    "4229": {
+      "miniDesc": "MATH 605 Mathematics - Applied Regression Analysis ( 3 / N )",
+      "description": "This course provides an introduction to regression analysis and statistical learning with an emphasis on mathematical understanding and its software implementation. Programming uses Python, R, or Julia. Covered topics include the following. Linear regression: parameter estimation, confidence ellipsoids and prediction intervals, hypothesis tests. Classification: logistic regression, linear discriminant analysis. Basis expansion: polynomial regression, regression splines. Resampling methods: cross-validation, bootstrap. Shrinkage methods. Model selection: information criteria, forward and backward selection, lasso. Decision trees and random forests: bagging, boosting. Prerequisite: MATH 290 or MATH 291, and MATH 526 or MATH 628. Satisfies: N Natural Science (N)",
+      "terms": ["4229", "4239"]
+    }
+  },
+  "MATH 608": {
+    "4222": {
+      "miniDesc": "MATH 608 Mathematics - Statistical Data Science ( 3 / N )",
+      "description": "This course provides an introduction to main statistical concepts in data science with an emphasis on mathematical understanding and its software implementation. Programming uses Python or Julia. Covered statistical models include linear regression and linear classification for high-dimensional problems; support vector machines and flexible discriminants; Bayesian learning and the EM algorithm; Monte Carlo methods; probabilistic graphical models; unsupervised learning. Prerequisite: A calculus-based statistics course (MATH 628 or MATH 526) and a linear algebra course (MATH 290 or MATH 291). Recommended: EECS 138 or equivalent experience. Satisfies: N Natural Science (N)",
+      "terms": ["4222", "4232"]
+    }
+  },
+  "MATH 611": {
+    "4212": {
+      "miniDesc": "MATH 611 Mathematics - Time Series Analysis ( 3 / N )",
+      "description": "An introduction to the theory and computational techniques in time series analysis. Descriptive techniques: trends, seasonality, autocorrelations. Time series models: autoregressive, moving average, ARIMA models; model specification and fitting, estimation, testing, residual analysis, forecasting. Stationary processes in the frequency domain: Fourier methods and the spectral density, periodograms, smoothing, spectral window. Prerequisite: A calculus based statistics course. Satisfies: N Natural Science (N)",
+      "terms": ["4212"]
+    },
+    "4232": {
+      "miniDesc": "MATH 611 Mathematics - Time Series Analysis ( 3 / N )",
+      "description": "This course provides an introduction to time series analysis with an emphasis on mathematical understanding and its software implementation. Programming uses Python, R, or Julia. Covered topics include the following. Modeling time series, trend, seasonality and residual process. Autocovariance function, multivariate time series, moving average and autoregression. Stationary processes, linear processes, linear filtering. Confidence intervals for the mean and the autocorrelation, hypothesis tests for a time series model. ARMA models, partial autocorrelation function, parameter estimation methods, forecasting, model selection. Stationary processes in the frequency domain, spectral density, periodogram, smoothing, spectral window. Nonstationary time series, ARIMA models. State-space representation, Kalman recursions. Recurrent neural networks as time allows. Prerequisite: MATH 290 or MATH 291, and MATH 526 or MATH 628. Satisfies: N Natural Science (N)",
+      "terms": ["4232"]
+    }
+  },
+  "MATH 627": {
+    "4219": {
+      "miniDesc": "MATH 627 Mathematics - Probability ( 3 / N )",
+      "description": "Introduction to mathematical probability; combinatorial analysis; the binomial, Poisson, and normal distributions; limit theorems; laws of large numbers. Prerequisite: MATH 127 or MATH 147 and MATH 290 or MATH 291. Satisfies: N Natural Science (N)",
+      "terms": ["4219", "4229", "4239"]
+    }
+  },
+  "MATH 628": {
+    "4212": {
+      "miniDesc": "MATH 628 Mathematics - Mathematical Theory Statistics ( 3 / N )",
+      "description": "An introduction to sampling theory and statistical inference; special distributions; and other topics. Prerequisite: MATH 627. Satisfies: N Natural Science (N)",
+      "terms": ["4212", "4222", "4232"]
+    }
+  },
+  "MATH 630": {
+    "4212": {
+      "miniDesc": "MATH 630 Mathematics - Actuarial Mathematics ( 3 / N )",
+      "description": "This course is an introduction to some of the notions and computations in actuarial mathematics. Many computations are associated with compound interest with applications to bank accounts, mortgages, pensions, bonds, and annuities. Life contingencies are considered for annuities and insurance. Some introduction to option pricing is given, particularly the Black-Scholes formula. This course provides the background material needed for some of the initial examinations given by the societies for actuaries, including the Financial Mathematics Exam. Prerequisite: MATH 526 or MATH 627 or a comparable course in probability. Satisfies: N Natural Science (N)",
+      "terms": ["4212", "4222", "4232"]
+    }
+  },
+  "MATH 646": {
+    "4219": {
+      "miniDesc": "MATH 646 Mathematics - Complex Variable &Applications ( 3 / N )",
+      "description": "Analytic functions of a complex variable, infinite series in the complex plane, theory of residues, conformal mapping and applications. Prerequisite: MATH 127 or MATH 147. Satisfies: N Natural Science (N)",
+      "terms": ["4219", "4229", "4239"]
+    }
+  },
+  "MATH 647": {
+    "4212": {
+      "miniDesc": "MATH 647 Mathematics - Appl Partial Differential Eqtn ( 3 / N )",
+      "description": "Boundary value problems; topics on partial differentiation; theory of characteristic curves; partial differential equations of mathematical physics. Prerequisite: MATH 127 or MATH 147 and MATH 220 or MATH 221 or MATH 320. Satisfies: N Natural Science (N)",
+      "terms": ["4212", "4219", "4222", "4229", "4232", "4239"]
+    }
+  },
+  "MATH 648": {
+    "4222": {
+      "miniDesc": "MATH 648 Mathematics - Calc of Variations&Integral Eq ( 3 / N )",
+      "description": "Topics in the calculus of variations, integral equations, and applications. Prerequisite: MATH 127 or MATH 147 and MATH 220 or MATH 221 or MATH 320. Satisfies: N Natural Science (N)",
+      "terms": ["4222", "4232"]
+    }
+  },
+  "MATH 650": {
+    "4229": {
+      "miniDesc": "MATH 650 Mathematics - Nonlinear Dynamical Systems ( 3 / N )",
+      "description": "This course provides an introduction to nonlinear ordinary differential equations and dynamical systems theory with an emphasis on applications. Topics covered include the existence and uniqueness of solutions to initial value problems, as well as the qualitative behavior of solutions, including existence of equilibria, periodic and connecting orbits and their stability. Additional topics include an introduction to bifurcation theory and chaos. Prerequisite: MATH 127 or MATH 147, and MATH 220 or MATH 221 or MATH 320, and MATH 290 or MATH 291. Satisfies: N Natural Science (N)",
+      "terms": ["4229", "4239"]
+    }
+  },
+  "MATH 660": {
+    "4219": {
+      "miniDesc": "MATH 660 Mathematics - Geometry I ( 3 / N )",
+      "description": "An introduction to modern geometry. Differential geometry of curves and surfaces, the topological classification of closed surfaces, dynamical systems, and knots and their polynomials. Other topics as time permits. Prerequisite: MATH 127 or MATH 147 and MATH 290 or MATH 291. Satisfies: N Natural Science (N)",
+      "terms": ["4219"]
+    }
+  },
+  "MATH 661": {
+    "4222": {
+      "miniDesc": "MATH 661 Mathematics - Geometry II ( 3 / N )",
+      "description": "Continuation of Math 660. Prerequisite: MATH 660 or permission of instructor. Satisfies: N Natural Science (N)",
+      "terms": ["4222"]
+    }
+  },
+  "MATH 696": {
+    "4212": {
+      "miniDesc": "MATH 696 Mathematics - Special Topics: ( 1-3 / N )",
+      "description": "Arranged as needed to present appropriate material to groups of students. May be repeated for additional credit. Prerequisite: Variable. Satisfies: N Natural Science (N)",
+      "terms": ["4212"]
+    }
+  },
+  "MATH 699": {
+    "4212": {
+      "miniDesc": "MATH 699 Mathematics - Directed Reading ( 1-3 / AE61 / N )",
+      "description": "Directed reading on a topic chosen by the student with the advice of an instructor. May be repeated for additional credit. Consent of the department required for enrollment. Satisfies: Goal 6 Outcome 1 (AE61) , N Natural Science (N)",
+      "terms": [
+        "4212",
+        "4216",
+        "4219",
+        "4222",
+        "4226",
+        "4229",
+        "4232",
+        "4236",
+        "4239"
+      ]
+    }
+  },
+  "MATH 724": {
+    "4219": {
+      "miniDesc": "MATH 724 Mathematics - Combinatorial Mathematics ( 3 )",
+      "description": "Counting problems, with an introduction to Polya's theory; Mobius functions; transversal theory; Ramsey's theorem; Sperner's theorem and related results. Prerequisite: MATH 290 and a math course numbered 450 or higher.",
+      "terms": ["4219"]
+    }
+  },
+  "MATH 725": {
+    "4222": {
+      "miniDesc": "MATH 725 Mathematics - Graph Theory ( 3 )",
+      "description": "Graphs; trees; connectivity; Menger's theorem; eulerian and hamiltonian graphs; planarity; coloring of graphs; factorization of graphs; matching theory; alternating chain methods; introduction to matroids with applications to graph theory. Prerequisite: MATH 290 and a math course numbered 450 or higher.",
+      "terms": ["4222"]
+    }
+  },
+  "MATH 727": {
+    "4219": {
+      "miniDesc": "MATH 727 Mathematics - Probability Theory ( 3 )",
+      "description": "A mathematical introduction to premeasure-theoretic probability. Topics include probability spaces, conditional probabilities and independent events, random variables and probability distributions, special discrete and continuous distributions with emphasis on parametric families used in applications, the distribution problem for functions of random variables, sequences of independent random variables, laws of large numbers, and the central limit theorem. Prerequisite: MATH 290, or equivalent.",
+      "terms": ["4219", "4229", "4239"]
+    }
+  },
+  "MATH 728": {
+    "4212": {
+      "miniDesc": "MATH 728 Mathematics - Statistical Theory ( 3 / N )",
+      "description": "Theory of point estimation and hypothesis testing with applications. Confidence region methodologies and relations to estimation and testing. Prerequisite: MATH 727 or equivalent. Satisfies: N Natural Science (N)",
+      "terms": ["4212", "4222", "4232"]
+    }
+  },
+  "MATH 750": {
+    "4219": {
+      "miniDesc": "MATH 750 Mathematics - Stochastic Adaptive Control ( 3 )",
+      "description": "Stochastic adaptive control methods. Stochastic processes such as Markov chains and Brownian motion, stochastic integral, differential rule, stochastic differential equations, martingales and estimation techniques. Identification and control of discrete and continuous time linear stochastic systems. Specific applications and simulation results of stochastic adaptive control theory. Prerequisite: MATH 627 and some knowledge of control.",
+      "terms": ["4219"]
+    }
+  },
+  "MATH 765": {
+    "4219": {
+      "miniDesc": "MATH 765 Mathematics - Mathematical Analysis I ( 3 )",
+      "description": "MATH 765 and MATH 766 are theoretical courses on the fundamental concepts of analysis and the methods of proof. These two courses include the concept of a real number; limits, continuity, and uniform convergence; derivatives and integrals of functions of one and of several real variables. Prerequisite: MATH 290, or equivalent.",
+      "terms": ["4219", "4229", "4239"]
+    }
+  },
+  "MATH 766": {
+    "4212": {
+      "miniDesc": "MATH 766 Mathematics - Mathematical Analysis II ( 3 )",
+      "description": "A continuation of MATH 765. Prerequisite: MATH 765.",
+      "terms": ["4212", "4222", "4232"]
+    }
+  },
+  "MATH 781": {
+    "4219": {
+      "miniDesc": "MATH 781 Mathematics - Numerical Analysis I ( 3 )",
+      "description": "Finite and divided differences. Interpolation, numerical differentiation, and integration. Gaussian quadrature. Numerical integration of ordinary differential equations. Curve fitting. (Same as EECS 781.) Prerequisite: MATH 320 and knowledge of a programming language.",
+      "terms": ["4219", "4229", "4239"]
+    }
+  },
+  "MATH 782": {
+    "4212": {
+      "miniDesc": "MATH 782 Mathematics - Numerical Analysis II ( 3 )",
+      "description": "Direct and interactive methods for solving systems of linear equations. Numerical solution of partial differential equations. Numerical determination of eigenvectors and eigenvalues. Solution of nonlinear equations. (Same as EECS 782.) Prerequisite: EECS 781 or MATH 781.",
+      "terms": ["4212", "4222", "4232"]
+    }
+  },
+  "MATH 783": {
+    "4212": {
+      "miniDesc": "MATH 783 Mathematics - App Num Mthd Partl Diffrntl Eq ( 3 )",
+      "description": "Finite difference methods applied to particular initial-value problems (both parabolic and hyperbolic), to illustrate the concepts of convergence and stability and to provide a background for treating more complicated problems arising in engineering and physics. Finite difference methods for elliptic boundary-value problems, with a discussion of convergence and methods for solving the resulting algebraic system. Variational methods for elliptic problems. Prerequisite: MATH 647 or equivalent.",
+      "terms": ["4212", "4222", "4232"]
+    }
+  },
+  "MATH 790": {
+    "4219": {
+      "miniDesc": "MATH 790 Mathematics - Linear Algebra II ( 3 )",
+      "description": "A theoretical course on the fundamental concepts and theorems of linear algebra. Topics covered are: vector space, basis, dimension, subspace, norm, inner product, Banach space, Hilbert space, orthonormal basis, positive definite matrix, minimal polynomial, diagonalization and other canonical forms, Cayley-Hamilton, spectral radius, dual space, quotient space. Prerequisite: MATH 590.",
+      "terms": ["4219", "4229", "4239"]
+    }
+  },
+  "MATH 791": {
+    "4212": {
+      "miniDesc": "MATH 791 Mathematics - Modern Algebra ( 3 )",
+      "description": "This course includes the following topics: multiplicative properties of the integers and introductions to group theory, ring theory and field theory. Prerequisite: MATH 290, or equivalent.",
+      "terms": ["4212", "4222", "4232"]
+    }
+  },
+  "MATH 799": {
+    "4212": {
+      "miniDesc": "MATH 799 Mathematics - Directed Readings ( 1-3 )",
+      "description": "Directed readings on a topic chosen by the student with the advice of an instructor. May be repeated for additional credit. Consent of the department required for enrollment.",
+      "terms": [
+        "4212",
+        "4216",
+        "4219",
+        "4222",
+        "4226",
+        "4229",
+        "4232",
+        "4236",
+        "4239"
+      ]
+    }
+  },
+  "MATH 800": {
+    "4212": {
+      "miniDesc": "MATH 800 Mathematics - Complex Analysis I ( 3 )",
+      "description": "Cauchy's theorem and contour integration; the argument principle; maximum modulus principle; Schwarz symmetry principle; analytic continuation; monodromy theorem; applications to the gamma function and Riemann's zeta function; entire and meromorphic functions; conformal mapping; Riemann mapping theorem; univalent functions. Prerequisite: MATH 766 or concurrently with MATH 766.",
+      "terms": ["4212", "4222", "4232"]
+    }
+  },
+  "MATH 810": {
+    "4219": {
+      "miniDesc": "MATH 810 Mathematics - Real Analysis&Measure Theory I ( 3 )",
+      "description": "Measurable spaces and functions. Measure spaces and integration. Extensions of set functions, outer measures, Lebesgue measure. Signed and complex measures. Differentiation of set functions. Miscellaneous additional topics and applications. Prerequisite: MATH 766.",
+      "terms": ["4219", "4229", "4239"]
+    }
+  },
+  "MATH 821": {
+    "4222": {
+      "miniDesc": "MATH 821 Mathematics - Algebraic Topology I ( 3 )",
+      "description": "The fundamental group and covering spaces (including classification); compact surfaces; homology theory, computations (including homotopy invariance) and applications (including Brouwer fixed point theorem); introduction to cohomology theory. Prerequisite: MATH 790 and MATH 791 and MATH 820, or permission of instructor.",
+      "terms": ["4222"]
+    }
+  },
+  "MATH 824": {
+    "4229": {
+      "miniDesc": "MATH 824 Mathematics - Algebraic Combinatorics ( 3 )",
+      "description": "An introduction to the fundamental structures and methods of modern algebraic combinatorics. Topics include partially ordered sets and lattices, matroids, simplicial complexes, polytopes, hyperplane arrangements, partitions and tableaux, and symmetric functions. Prerequisite: MATH 724 and MATH 791, or permission of the instructor.",
+      "terms": ["4229", "4239"]
+    }
+  },
+  "MATH 830": {
+    "4219": {
+      "miniDesc": "MATH 830 Mathematics - Abstract Algebra ( 3 )",
+      "description": "A study of some structures, theorems, and techniques in algebra whose use has become common in many branches of mathematics. Prerequisite: MATH 790 and MATH 791.",
+      "terms": ["4219"]
+    },
+    "4229": {
+      "miniDesc": "MATH 830 Mathematics - Abstract Algebra ( 3 )",
+      "description": "This is an introductory course covering the basics of module theory over commutative rings. Topics include quotient modules and module homomorphisms; direct sums and free modules; tensor products of modules and exact sequences; projective, injective, and flat modules; direct and inverse limits of modules; the theory of modules over principal ideal domains, and normal forms; graded rings and modules. Prerequisite: MATH 790 and MATH 791.",
+      "terms": ["4229", "4239"]
+    }
+  },
+  "MATH 831": {
+    "4212": {
+      "miniDesc": "MATH 831 Mathematics - Abstract Algebra ( 3 )",
+      "description": "Continuation of MATH 830. Prerequisite: MATH 830.",
+      "terms": ["4212"]
+    },
+    "4222": {
+      "miniDesc": "MATH 831 Mathematics - Abstract Algebra II ( 3 )",
+      "description": "This course covers foundational topics in commutative algebra not covered in MATH 830. Potential topics include integral extensions, lying over and going-up; normal rings and going-down; Noether normalization, and dimension theory for finitely generated algebras over a field; chain conditions, and Noetherian and Artinian rings and modules; local rings and Nakayama's Lemma; rings of formal power series; completion and flatness; primary decomposition and associated primes; affine algebraic varieties and Hilbert's Nullstellensatz; the prime spectrum of a ring and the Zariski topology. Prerequisite: MATH 830.",
+      "terms": ["4222", "4232"]
+    }
+  },
+  "MATH 840": {
+    "4232": {
+      "miniDesc": "MATH 840 Mathematics - Differentiable Manifolds ( 3 )",
+      "description": "Multilinear algebra of finite dimensional vector spaces over fields; differentiable structures and tangent and tensor bundles; differentiable mappings and differentials; exterior differential forms; curves and surfaces as differentiable manifolds; affine connections and covariant differentiation; Riemannian manifolds. Prerequisite: MATH 765 and MATH 790.",
+      "terms": ["4232"]
+    }
+  },
+  "MATH 850": {
+    "4229": {
+      "miniDesc": "MATH 850 Mathematics - Diffrntl Eqtn&Dynamical Systms ( 3 / N )",
+      "description": "Discrete and differentiable dynamical systems with an emphasis on the qualitative theory. Topics to be covered include review of linear systems, existence and uniqueness theorems, flows and discrete dynamical systems, linearization (Hartman-Grobman theorem), stable and unstable manifolds, Poincare sections, normal forms, Hamiltonian systems, and an introduction to bifurcation theory and chaos. Prerequisite: MATH 320 and MATH 766, or permission of instructor. Satisfies: N Natural Science (N)",
+      "terms": ["4229", "4239"]
+    }
+  },
+  "MATH 851": {
+    "4212": {
+      "miniDesc": "MATH 851 Mathematics - Topics in Dynamical Systems ( 3 / N )",
+      "description": "Topics to be covered include complex dynamical systems, perturbation theory, nonlinear analysis of time series, chaotic dynamical systems, and numerical methods as dynamical systems. This course may be repeated for credit. Prerequisite: MATH 850 or permission of instructor. Satisfies: N Natural Science (N)",
+      "terms": ["4212"]
+    },
+    "4232": {
+      "miniDesc": "MATH 851 Mathematics - Topics in Dynamical Systems: ( 3 )",
+      "description": "Topics to be covered include complex dynamical systems, perturbation theory, nonlinear analysis of time series, chaotic dynamical systems, and numerical methods as dynamical systems. Topics may vary. Course may be repeated if topic varies. Prerequisite: MATH 850 or permission of instructor.",
+      "terms": ["4232"]
+    }
+  },
+  "MATH 865": {
+    "4212": {
+      "miniDesc": "MATH 865 Mathematics - Stochastic Processes I ( 3 )",
+      "description": "Markov chains; Markov processes; diffusion processes; stationary processes. Emphasis is placed on applications: random walks; branching theory; Brownian motion; Poisson process; birth and death processes. Prerequisite: MATH 627 and MATH 765.",
+      "terms": ["4212", "4222", "4232"]
+    }
+  },
+  "MATH 866": {
+    "4219": {
+      "miniDesc": "MATH 866 Mathematics - Stochastic Processes II ( 3 )",
+      "description": "This is a second course in stochastic processes, focused on stochastic calculus with respect to a large class of semi-martingales and its applications to topics selected from classical analysis (linear PDE), finance, engineering, and statistics. The course will start with basic properties of martingales and random walks and then develop into the core program on Ito's stochastic calculus and stochastic differential equations. These techniques provide useful and important tools and models in many pure and applied areas. Prerequisite: MATH 727 and MATH 865.",
+      "terms": ["4219"]
+    }
+  },
+  "MATH 874": {
+    "4229": {
+      "miniDesc": "MATH 874 Mathematics - Statistical Decision Theory ( 3 )",
+      "description": "Game theory, admissible decision functions and complete class theorems; Bayes and minimax solutions; sufficiency; invariance; multiple decision problems; sequential decision problems. Prerequisite: MATH 628 and MATH 766.",
+      "terms": ["4229", "4239"]
+    }
+  },
+  "MATH 881": {
+    "4219": {
+      "miniDesc": "MATH 881 Mathematics - Advanced Numerical Linear Alge ( 3 / N )",
+      "description": "Advanced topics in numerical linear algebra including pseudo-spectra, rounding error analysis and perturbation theory, numerical methods for problems with special structure, and numerical methods for large scale problems. Prerequisite: Math 781, 782, 790, or permission of the instructor. Satisfies: N Natural Science (N)",
+      "terms": ["4219"]
+    }
+  },
+  "MATH 882": {
+    "4212": {
+      "miniDesc": "MATH 882 Mathematics - Advncd Numrcl Differntl Equatn ( 3 / N )",
+      "description": "Advanced course in the numerical solution of ordinary and partial differential equations including modern numerical methods and the associated analysis. Prerequisite: MATH 781, 782, 783, or permission of the instructor. Satisfies: N Natural Science (N)",
+      "terms": ["4212"]
+    },
+    "4222": {
+      "miniDesc": "MATH 882 Mathematics - Topics Advncd Num Diff Eqtns: ( 3 )",
+      "description": "Advanced course in the numerical solution of ordinary and partial differential equations including modern numerical methods and the associated analysis. Topics may vary. Course may be repeated if topic varies. Prerequisite: MATH 781, MATH 782, MATH 783, or permission of the instructor.",
+      "terms": ["4222", "4232"]
+    }
+  },
+  "MATH 896": {
+    "4212": {
+      "miniDesc": "MATH 896 Mathematics - Master's Research Component ( 1-6 )",
+      "description": "",
+      "terms": [
+        "4212",
+        "4216",
+        "4219",
+        "4222",
+        "4226",
+        "4229",
+        "4232",
+        "4236",
+        "4239"
+      ]
+    }
+  },
+  "MATH 899": {
+    "4212": {
+      "miniDesc": "MATH 899 Mathematics - Master's Thesis ( 1-10 )",
+      "description": "",
+      "terms": [
+        "4212",
+        "4216",
+        "4219",
+        "4222",
+        "4226",
+        "4229",
+        "4232",
+        "4236",
+        "4239"
+      ]
+    }
+  },
+  "MATH 920": {
+    "4212": {
+      "miniDesc": "MATH 920 Mathematics - Lie Groups and Lie Algebras ( 3 )",
+      "description": "General properties of Lie groups, closed subgroups, one-parameter subgroups, homogeneous spaces, Lie bracket, Lie algebras, exponential map, structure of semi-simple Lie algebras, invariant forms, Maurer-Cartan equation, covering groups, spinor groups. Prerequisite: MATH 766 and MATH 790 and MATH 791.",
+      "terms": ["4212"]
+    }
+  },
+  "MATH 950": {
+    "4219": {
+      "miniDesc": "MATH 950 Mathematics - Partial Differential Equations ( 3 )",
+      "description": "Introduction; equations of mathematical physics; classification of linear equations and systems. Existence and uniqueness problems for elliptic, parabolic, and hyperbolic equations. Eigenvalue problems for elliptic operators; numerical methods. Prerequisite: MATH 766.",
+      "terms": ["4219"]
+    }
+  },
+  "MATH 951": {
+    "4222": {
+      "miniDesc": "MATH 951 Mathematics - Topics in Advanced PDE II: ( 3 )",
+      "description": "The course uses functional analytic techniques to further develop various aspects of the modern framework of linear and nonlinear partial differential equations. Sobolev spaces, distributions and operator theory are used in the treatment of linear second-order elliptic, parabolic, and hyperbolic equations. In particular we discuss the kind of potential, diffusion and wave equations that arise in inhomogeneous media, with an emphasis on the solvability of equations with different initial/boundary conditions. Then, we will survey the theory of semigroup of operators, which is one of the main tools in the study of the long-time behavior of solutions to nonlinear PDE. The theories and applications encountered in this course will create a strong foundation for studying nonlinear equations and nonlinear science in general. Topics may vary. Course may be repeated if topic varies. Prerequisite: MATH 950 or permission of the instructor.",
+      "terms": ["4222"]
+    }
+  },
+  "MATH 960": {
+    "4232": {
+      "miniDesc": "MATH 960 Mathematics - Functional Analysis ( 3 )",
+      "description": "Topological vector spaces, Banach spaces, basic principles of functional analysis. Weak and weak-topologies, operators and adjoints. Hilbert spaces, elements of spectral theory. Locally convex spaces. Duality and related topics. Applications. Prerequisite: MATH 810 and MATH 820 or concurrent with MATH 820.",
+      "terms": ["4232"]
+    }
+  },
+  "MATH 990": {
+    "4212": {
+      "miniDesc": "MATH 990 Mathematics - Seminar: ( 1-10 )",
+      "description": "",
+      "terms": ["4212", "4219", "4222", "4229", "4232", "4239"]
+    }
+  },
+  "MATH 993": {
+    "4212": {
+      "miniDesc": "MATH 993 Mathematics - Readings in Mathematics ( 1-10 )",
+      "description": "",
+      "terms": [
+        "4212",
+        "4216",
+        "4219",
+        "4222",
+        "4226",
+        "4229",
+        "4232",
+        "4236",
+        "4239"
+      ]
+    }
+  },
+  "MATH 996": {
+    "4212": {
+      "miniDesc": "MATH 996 Mathematics - Special Topics: ( 3 )",
+      "description": "Advanced courses on special topics; given as need arises. Prerequisite: Variable.",
+      "terms": ["4212", "4229", "4232", "4239"]
+    }
+  },
+  "MATH 999": {
+    "4212": {
+      "miniDesc": "MATH 999 Mathematics - Doctoral Dissertation ( 1-10 )",
+      "description": "",
+      "terms": [
+        "4212",
+        "4216",
+        "4219",
+        "4222",
+        "4226",
+        "4229",
+        "4232",
+        "4236",
+        "4239"
+      ]
+    }
+  }
+}

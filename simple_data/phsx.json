@@ -1,0 +1,988 @@
+{
+  "PHSX 114": {
+    "4212": {
+      "miniDesc": "PHSX 114 Physics - College Physics I ( 1-4 / GE11 / GE12 / GE3N / LFE / N / NP / QR )",
+      "description": "Principles and applications of mechanics, fluids, heat, thermodynamics, and sound waves. Three class hours and one laboratory per week. This course emphasizes the development of quantitative concepts and problem solving skills for students needing a broad background in physics as part of their preparation in other major programs, and for those who wish to meet the laboratory science requirement of the College. Students who enroll in this course are expected to have had 3.5 years of college-prep math, including trigonometry. In special circumstances, permission to enroll in less than four hours may be obtained from the department. Not open to students with credit in PHSX 211 or PHSX 216 or PHSX 212 or PHSX 236. Prerequisite: MATH 104 or a score of 25 or higher on ACT mathematics. Satisfies: Goal 1 Outcome 1 (GE11) , Goal 1 Outcome 2 (GE12) , Goal 3 Natural Sciences (GE3N) , Lab and Field Experiences (LFE) , N Natural Science (N) , NP Physical Sciences PC (NP) , BA Quantitative Reasoning (QR)",
+      "terms": [
+        "4212",
+        "4216",
+        "4219",
+        "4222",
+        "4226",
+        "4229",
+        "4232"
+      ]
+    }
+  },
+  "PHSX 115": {
+    "4212": {
+      "miniDesc": "PHSX 115 Physics - College Physics II ( 1-4 / LFE / N )",
+      "description": "A continuation of PHSX 114. Principles and applications of electricity, magnetism, light, atomic physics, and nuclear physics. Three class hours and one laboratory per week. In special circumstances, permission to enroll in less than four hours may be obtained from the department. Not open to students with credit in PHSX 212 or PHSX 236. Prerequisite: PHSX 114. Satisfies: Lab and Field Experiences (LFE) , N Natural Science (N)",
+      "terms": [
+        "4212",
+        "4216",
+        "4219",
+        "4222",
+        "4226",
+        "4229",
+        "4232"
+      ]
+    }
+  },
+  "PHSX 150": {
+    "4219": {
+      "miniDesc": "PHSX 150 Physics - Sem Physcs, Astrnmy&Engr Physc ( 0.5 / N )",
+      "description": "This course is intended for all students in physics, astronomy and engineering physics. Course content includes topics of current interest in all fields of physics and astronomy and an introduction to professional ethics and frameworks for ethical decision making. Topics covered include but are not limited to nanotechnology, cosmology, nuclear and high energy physics, galactic evolution, condensed matter physics, space physics, biophysics and plasma physics. Course will include hands on demonstrations, group in-class activities and general advising information. Satisfies: N Natural Science (N)",
+      "terms": [
+        "4219"
+      ]
+    },
+    "4229": {
+      "miniDesc": "PHSX 150 Physics - Sem Physcs, Astrnmy&Engr Physc ( 0.5 / N )",
+      "description": "This course is intended for all students in physics, astronomy and engineering physics. Course content includes topics of current interest in all fields of physics and astronomy and an introduction to professional ethics and frameworks for ethical decision making. Topics covered include but are not limited to nanotechnology, cosmology, nuclear and high energy physics, galactic evolution, condensed matter physics, space physics, biophysics and plasma physics. Course will include hands on demonstrations, group in-class activities and general advising information. (Same as ASTR 150.) Satisfies: N Natural Science (N)",
+      "terms": [
+        "4229",
+        "4232"
+      ]
+    }
+  },
+  "PHSX 191": {
+    "4212": {
+      "miniDesc": "PHSX 191 Physics - Contemporary Astronomy ( 3 / GE3N / N / NP )",
+      "description": "The structure and evolution of the universe, from nearby planets to distant quasars, are examined. Topics include recent discoveries concerning planets, stars, pulsars and black holes as well as their evolution, the structure of the universe today and how it will be in the future. The emphasis is descriptive rather than mathematical. (Same as ASTR 191.) Prerequisite: Eligibility for MATH 101. Satisfies: Goal 3 Natural Sciences (GE3N) , N Natural Science (N) , NP Physical Sciences PC (NP)",
+      "terms": [
+        "4212",
+        "4216",
+        "4219",
+        "4222",
+        "4226",
+        "4229"
+      ]
+    },
+    "4232": {
+      "miniDesc": "PHSX 191 Physics - Contemporary Astronomy ( 3 / GE3N / N / NP )",
+      "description": "The structure and evolution of the universe, from nearby planets to distant quasars, is examined. Topics include recent discoveries concerning planets, stars, pulsars and black holes as well as their evolution, the structure of the universe today and how it will be in the future. The emphasis is descriptive rather than mathematical. (Same as ASTR 191.) Prerequisite: Eligibility for MATH 101. Satisfies: Goal 3 Natural Sciences (GE3N) , N Natural Science (N) , NP Physical Sciences PC (NP)",
+      "terms": [
+        "4232"
+      ]
+    }
+  },
+  "PHSX 196": {
+    "4212": {
+      "miniDesc": "PHSX 196 Physics - Contemporary Astronomy Lab ( 1 / LFE / N / NP )",
+      "description": "An introduction to astronomical observations and modern data analysis methods. Students will carry out independent investigations as well as standard exercises. This is an online course, delivered through Blackboard. (Same as ASTR 196.) Prerequisite: Corequisite: ASTR 191. Satisfies: Lab and Field Experiences (LFE) , N Natural Science (N) , NP Physical Sciences PC (NP)",
+      "terms": [
+        "4212",
+        "4216",
+        "4219",
+        "4222",
+        "4226",
+        "4229"
+      ]
+    },
+    "4232": {
+      "miniDesc": "PHSX 196 Physics - Contemporary Astronomy Lab ( 1 / LFE / N / NP )",
+      "description": "An introduction to astronomical observations and modern data analysis methods. Students will carry out independent investigations as well as standard exercises. This is an online course, delivered through Canvas. (Same as ASTR 196.) Prerequisite: Corequisite: ASTR 191. Satisfies: Lab and Field Experiences (LFE) , N Natural Science (N) , NP Physical Sciences PC (NP)",
+      "terms": [
+        "4232"
+      ]
+    }
+  },
+  "PHSX 201": {
+    "4212": {
+      "miniDesc": "PHSX 201 Physics - Calculus Suppl College Physc I ( 1 / N )",
+      "description": "A calculus-based course in classical mechanics and thermodynamics for students who have had an algebra-based course in classical mechanics and thermodynamics. This course, combined with PHSX 114, covers the content of PHSX 211 or PHSX 210. Prerequisite: PHSX 114 and MATH 116 or MATH 125. Corequisite: MATH 126; and permission of the department. Satisfies: N Natural Science (N)",
+      "terms": [
+        "4212",
+        "4216",
+        "4219",
+        "4222",
+        "4226",
+        "4229",
+        "4232"
+      ]
+    }
+  },
+  "PHSX 202": {
+    "4212": {
+      "miniDesc": "PHSX 202 Physics - Calculus Supp College Physc II ( 1 / N )",
+      "description": "A calculus-based course in electricity and magnetism for students who have had an algebra-based course in electricity and magnetism. This course, combined with PHSX 115, covers the content of PHSX 212. Prerequisite: PHSX 115 and permission of the department. Corequisite: MATH 126. Satisfies: N Natural Science (N)",
+      "terms": [
+        "4212",
+        "4216",
+        "4219",
+        "4222",
+        "4226",
+        "4229",
+        "4232"
+      ]
+    }
+  },
+  "PHSX 209": {
+    "4219": {
+      "miniDesc": "PHSX 209 Physics - Functions and Modeling ( 3 / N )",
+      "description": "Study of the use of functions in mathematical modeling, with topics drawn from algebra, analytic geometry, statistics, trigonometry, and calculus. These topics include function properties and patterns, complex numbers, parametric and polar equations, vectors and various growth models. The course also includes inquiry methods, collaborative problem solving, the use of multiple representations and data analysis techniques, and the justification and presentation of results. Central to the course are investigative labs employing various technologies and software. The course is designed to help prepare students for secondary school mathematics teaching. (Same as MATH 209.) Prerequisite: MATH 126 or MATH 146. Satisfies: N Natural Science (N)",
+      "terms": [
+        "4219",
+        "4229"
+      ]
+    }
+  },
+  "PHSX 210": {
+    "4212": {
+      "miniDesc": "PHSX 210 Physics - Generl Physics I for Engineers ( 3 / GE11 / GE3N / N )",
+      "description": "Introduction to classical mechanics and thermodynamics designed for students in the School of Engineering who have completed MATH 125 or MATH 145 with a grade of C or better. Students not admitted to the School of Engineering must receive permission from instructor. PHSX 210 and PHSX 211 cannot both be taken for credit. Prerequisite: MATH 125 or MATH 145 with a grade of C or better; co-requisite MATH 126 or MATH 146; courses in high school physics and/or chemistry recommended. Satisfies: Goal 1 Outcome 1 (GE11) , Goal 3 Natural Sciences (GE3N) , N Natural Science (N)",
+      "terms": [
+        "4212",
+        "4219",
+        "4222",
+        "4229",
+        "4232"
+      ]
+    }
+  },
+  "PHSX 211": {
+    "4212": {
+      "miniDesc": "PHSX 211 Physics - General Physics I ( 4 / GE11 / GE12 / GE3N / LFE / N / NP / QR )",
+      "description": "Introduction to classical mechanics and thermodynamics. Designed for students in engineering and physical science majors. Prerequisite: MATH 116 or MATH 125 or MATH 145. Corequisite MATH 126 or MATH 146; courses in high school physics and/or chemistry are recommended. Satisfies: Goal 1 Outcome 1 (GE11) , Goal 1 Outcome 2 (GE12) , Goal 3 Natural Sciences (GE3N) , Lab and Field Experiences (LFE) , N Natural Science (N) , NP Physical Sciences PC (NP) , BA Quantitative Reasoning (QR)",
+      "terms": [
+        "4212",
+        "4216",
+        "4219",
+        "4222",
+        "4226",
+        "4229",
+        "4232"
+      ]
+    }
+  },
+  "PHSX 212": {
+    "4212": {
+      "miniDesc": "PHSX 212 Physics - General Physics II ( 3 / GE3N / LFE / N )",
+      "description": "Study of electricity, magnetism, waves, and optics. Prerequisite: PHSX 201, PHSX 210, PHSX 211 or PHSX 213; MATH 126 or MATH 146. Co-enrollment in MATH 127 or MATH 147 is strongly encouraged. Satisfies: Goal 3 Natural Sciences (GE3N) , Lab and Field Experiences (LFE) , N Natural Science (N)",
+      "terms": [
+        "4212",
+        "4216",
+        "4219",
+        "4222",
+        "4226",
+        "4229",
+        "4232"
+      ]
+    }
+  },
+  "PHSX 213": {
+    "4212": {
+      "miniDesc": "PHSX 213 Physics - General Physics I Honors ( 1-5 / Honors / GE11 / GE12 / GE3N / LFE / N / NP / QR )",
+      "description": "An honors section of PHSX 211 and PHSX 216. Credit for fewer than five hours requires permission of the department. Recommended for students with a strong math background who are either in the University Honors Program or intending to major in Astronomy, Physics, or Engineering Physics. Courses in high school physics and chemistry are strongly recommended. Prerequisite: MATH 125 or MATH 145; co-requisite MATH 126 or MATH 146; and permission of instructor. Satisfies: Goal 1 Outcome 1 (GE11) , Goal 1 Outcome 2 (GE12) , Goal 3 Natural Sciences (GE3N) , Lab and Field Experiences (LFE) , N Natural Science (N) , NP Physical Sciences PC (NP) , BA Quantitative Reasoning (QR) , Honors",
+      "terms": [
+        "4212",
+        "4222",
+        "4232"
+      ]
+    }
+  },
+  "PHSX 214": {
+    "4219": {
+      "miniDesc": "PHSX 214 Physics - General Physics II Honors ( 1-4 / Honors / GE3N / LFE / N )",
+      "description": "An honors section of PHSX 212 and PHSX 236. Credit for fewer than four hours requires permission of the department. Recommended for students with a strong math background who are either in the University Honors Program or intending to major in Astronomy, Physics, or Engineering Physics. Prerequisite: PHSX 216 together with either PHSX 211 or PHSX 210; or PHSX 213, and permission of instructor. Corequisite: MATH 127 or MATH 147. Satisfies: Goal 3 Natural Sciences (GE3N) , Lab and Field Experiences (LFE) , N Natural Science (N) , Honors",
+      "terms": [
+        "4219",
+        "4229"
+      ]
+    }
+  },
+  "PHSX 216": {
+    "4212": {
+      "miniDesc": "PHSX 216 Physics - General Physics I Laboratory ( 1 / LFE / N )",
+      "description": "Experiments in classical mechanics and thermodynamics. The course includes practice in the ethics of recording and presentation of data. Counts as a laboratory science when accompanied by PHSX 210 or PHSX 211. Prerequisite: Corequisite: PHSX 210 or PHSX 211. Satisfies: Lab and Field Experiences (LFE) , N Natural Science (N)",
+      "terms": [
+        "4212",
+        "4216",
+        "4219",
+        "4222",
+        "4226",
+        "4229",
+        "4232"
+      ]
+    }
+  },
+  "PHSX 236": {
+    "4212": {
+      "miniDesc": "PHSX 236 Physics - General Physics II Laboratory ( 1 / LFE / N )",
+      "description": "Experiments in electricity and magnetism, waves and sound. Students will practice data reduction and error analysis in ways that are consistent with professional ethics. Prerequisite: Corequisite: PHSX 212. Satisfies: Lab and Field Experiences (LFE) , N Natural Science (N)",
+      "terms": [
+        "4212",
+        "4216",
+        "4219",
+        "4222",
+        "4226",
+        "4229",
+        "4232"
+      ]
+    }
+  },
+  "PHSX 313": {
+    "4212": {
+      "miniDesc": "PHSX 313 Physics - General Physics III ( 3 / GE3N / LFE / N )",
+      "description": "Introduction to modern physics. Topics include special relativity, optics, and introductions to quantum mechanics and solid state physics. Prerequisite: PHSX 212 and PHSX 236, or PHSX 214, or PHSX 202, or EECS 220 or EECS 221. Corequisite: MATH 320 or MATH 220 or MATH 221. Satisfies: Goal 3 Natural Sciences (GE3N) , Lab and Field Experiences (LFE) , N Natural Science (N)",
+      "terms": [
+        "4212",
+        "4219",
+        "4222"
+      ]
+    },
+    "4229": {
+      "miniDesc": "PHSX 313 Physics - General Physics III ( 3 / GE3N / LFE / N )",
+      "description": "This course is an introduction to modern physics. The topics covered in this course include special relativity, optics, and introductions to quantum mechanics and its applications. Prerequisite: PHSX 212 and PHSX 236, or PHSX 214, or PHSX 202, or EECS 220, or EECS 221. Corequisite: MATH 320 or MATH 220 or MATH 221. Satisfies: Goal 3 Natural Sciences (GE3N) , Lab and Field Experiences (LFE) , N Natural Science (N)",
+      "terms": [
+        "4229",
+        "4232"
+      ]
+    }
+  },
+  "PHSX 315": {
+    "4212": {
+      "miniDesc": "PHSX 315 Physics - Intro Computatn Physcs &Astnmy ( 3 / N )",
+      "description": "This course introduces the use of computational techniques as applied to solving problems in physics and astronomy. It serves as a gateway to the use of such methods in upper level classes and research. Highlighted techniques will include the use of numerical methods for the solution of differential equations encountered in physics and astronomy, the use of random numbers for simulation and modeling, data analysis using computers, and data visualization. Problems will be drawn from a wide variety of physical applications including mechanics, electromagnetism, thermodynamics, and stellar dynamics. Students will develop their own computer programs to investigate, illustrate, and report their results. Prerequisite: EECS 138 or EECS 168 or EECS 169, or permission of the instructor. Corequisite: PHSX 212 or PHSX 214. Satisfies: N Natural Science (N)",
+      "terms": [
+        "4212",
+        "4222",
+        "4232"
+      ]
+    }
+  },
+  "PHSX 316": {
+    "4212": {
+      "miniDesc": "PHSX 316 Physics - Intermedt Physics Laboratory I ( 1 / LFE / U )",
+      "description": "Experiments in optics and modern physics. Development of experimental skills, data reduction, error analysis, and technical writing. One lab meeting per week and one lecture per week on topics including error analysis and experimental design, and the development of professional ethics in regard to citation and data presentation. Prerequisite: Corequisite: PHSX 313. Satisfies: Lab and Field Experiences (LFE) , U Undesignated elective (U)",
+      "terms": [
+        "4212",
+        "4219",
+        "4222",
+        "4229",
+        "4232"
+      ]
+    }
+  },
+  "PHSX 500": {
+    "4212": {
+      "miniDesc": "PHSX 500 Physics - Special Problems ( 1-5 / AE61 / N )",
+      "description": "Work in some area of physics beyond the topics or material covered in other courses. For some problems, continued enrollment in consecutive semesters may be appropriate. Prerequisite: One junior-senior course in science in an area related to the problem and consent of instructor. Satisfies: Goal 6 Outcome 1 (AE61) , N Natural Science (N)",
+      "terms": [
+        "4212",
+        "4216",
+        "4219",
+        "4222",
+        "4226",
+        "4229",
+        "4232"
+      ]
+    }
+  },
+  "PHSX 501": {
+    "4212": {
+      "miniDesc": "PHSX 501 Physics - Honors Research ( 1-4 / Honors / AE61 / N )",
+      "description": "This course is for students seeking Departmental Honors in Astronomy, Engineering Physics, or Physics to fulfill the undergraduate research requirement. At the completion of the required four hours of total enrollment, a written and oral report of the research is required. (Same as ASTR 501 and EPHX 501.) Prerequisite: Junior/Senior standing in Astronomy, Engineering Physics, or Physics, or permission of instructor. Satisfies: Goal 6 Outcome 1 (AE61) , N Natural Science (N) , Honors",
+      "terms": [
+        "4212",
+        "4216",
+        "4219",
+        "4222",
+        "4226",
+        "4229",
+        "4232"
+      ]
+    }
+  },
+  "PHSX 503": {
+    "4212": {
+      "miniDesc": "PHSX 503 Physics - Undergraduate Research ( 1-4 / AE61 / N )",
+      "description": "This course is for students seeking to fulfill the undergraduate research requirement. Students are expected to participate in some area of ongoing research in the department, chosen with the help of their advisor. At the end of the term, students will present their results in a seminar to other students and faculty. (Same as ASTR 503 and EPHX 503.) Prerequisite: Junior/Senior standing in Astronomy, Engineering Physics, or Physics, or permission of instructor. Satisfies: Goal 6 Outcome 1 (AE61) , N Natural Science (N)",
+      "terms": [
+        "4212",
+        "4216",
+        "4219",
+        "4222",
+        "4226",
+        "4229",
+        "4232"
+      ]
+    }
+  },
+  "PHSX 511": {
+    "4212": {
+      "miniDesc": "PHSX 511 Physics - Introductory Quantum Mechanics ( 3 / N )",
+      "description": "An introduction to quantum mechanics, emphasizing a physical overview. Topics should include the formalisms of non-relativistic quantum mechanics, the 3-dimensional Schrodinger equation with applications to the hydrogen atom; spin and angular momentum; multi-particle systems of Fermi-Dirac and Bose-Einstein particles; time-independent perturbation theory. (Same as EPHX 511.) Prerequisite: PHSX 313 and MATH 290. Satisfies: N Natural Science (N)",
+      "terms": [
+        "4212"
+      ]
+    }
+  },
+  "PHSX 516": {
+    "4212": {
+      "miniDesc": "PHSX 516 Physics - Physical Measurements ( 4 / LFE / N )",
+      "description": "A laboratory course emphasizing experimental techniques and data analysis, as well as scientific writing and presentation skills. Experiments will explore a range of classical and modern physics topics. Students will also practice ethical decision making using case studies appropriate for the discipline. (Same as EPHX 516.) Prerequisite: PHSX 313, EPHX 316 or PHSX 316 and EPHX 521 or PHSX 521. (EPHX 521 or PHSX 521 may be taken concurrently.) Satisfies: Lab and Field Experiences (LFE) , N Natural Science (N)",
+      "terms": [
+        "4212",
+        "4219"
+      ]
+    },
+    "4222": {
+      "miniDesc": "PHSX 516 Physics - Physical Measurements ( 4 / LFE / N )",
+      "description": "A laboratory course emphasizing experimental techniques and data analysis, as well as scientific writing and presentation skills. Experiments will explore a range of classical and modern physics topics. Students will also practice ethical decision making using case studies appropriate for the discipline. (Same as EPHX 616.) Prerequisite: PHSX 313, PHSX 316 or EPHX 316, and PHSX 521 or EPHX 521. (PHSX 521 or EPHX 521 may be taken concurrently.) Satisfies: Lab and Field Experiences (LFE) , N Natural Science (N)",
+      "terms": [
+        "4222"
+      ]
+    }
+  },
+  "PHSX 518": {
+    "4229": {
+      "miniDesc": "PHSX 518 Physics - Mathematical Physics ( 3 / N )",
+      "description": "Applications of modern mathematical methods to problems in mechanics and modern physics. Techniques include application of partial differential equations and complex variables to classical field problems in continuous mechanics, unstable and chaotic systems, electrodynamics, hydrodynamics, and heat flow. Applications of elementary transformation theory and group theory, probability and statistics, and nonlinear analysis to selected problems in modern physics as well as to graphical representation of experimental data. (Same as EPHX 518.) Prerequisite: PHSX 313; MATH 220 or MATH 221 or MATH 320; or permission of instructor. Satisfies: N Natural Science (N)",
+      "terms": [
+        "4229"
+      ]
+    }
+  },
+  "PHSX 521": {
+    "4219": {
+      "miniDesc": "PHSX 521 Physics - Mechanics I ( 3 / N )",
+      "description": "Newton's laws of motion. Motion of a particle in one, two, and three dimensions. Motion of a system of particles. Moving coordinate systems. (Same as EPHX 521.) Prerequisite: PHSX 211 and PHSX 216, or PHSX 213; MATH 127; MATH 290; and MATH 220 or MATH 320. Satisfies: N Natural Science (N)",
+      "terms": [
+        "4219"
+      ]
+    },
+    "4229": {
+      "miniDesc": "PHSX 521 Physics - Mechanics I ( 3 / N )",
+      "description": "Newton's laws of motion. Motion of a particle in one, two, and three dimensions. Motion of a system of particles. Moving coordinate systems. (Same as EPHX 521.) Prerequisite: PHSX 213 or PHSX 211 and PHSX 216; MATH 127 or MATH 147; MATH 290 or MATH 291; and MATH 220, MATH 221 or MATH 320. Satisfies: N Natural Science (N)",
+      "terms": [
+        "4229"
+      ]
+    }
+  },
+  "PHSX 531": {
+    "4219": {
+      "miniDesc": "PHSX 531 Physics - Electricity and Magnetism ( 3 / N )",
+      "description": "The properties of electric and magnetic fields, including electrostatics, Gauss' Law, boundary value methods, electric fields in matter, electromagnetic induction, magnetic fields in matter, the properties of electric and magnetic dipoles, and of dielectric and magnetic materials. (Same as EPHX 531.) Prerequisite: PHSX 214, or PHSX 212 and PHSX 236; PHSX 521 or special permission; MATH 127; MATH 290; and MATH 220 or MATH 320. Satisfies: N Natural Science (N)",
+      "terms": [
+        "4219"
+      ]
+    },
+    "4229": {
+      "miniDesc": "PHSX 531 Physics - Electricity and Magnetism ( 3 / N )",
+      "description": "This course will explore the properties of electric and magnetic fields, including electrostatics, Gauss' Law, boundary value methods, electric fields in matter, electromagnetic induction, magnetic fields in matter, the properties of electric and magnetic dipoles, and of dielectric and magnetic materials. (Same as EPHX 531.) Prerequisite: PHSX 214, or PHSX 212 and PHSX 236, or PHSX 202; PHSX 521 or EPHX 521 or special permission; MATH 127 or MATH 147; MATH 290 or MATH 291; and MATH 220, MATH 221, or MATH 320. Satisfies: N Natural Science (N)",
+      "terms": [
+        "4229"
+      ]
+    }
+  },
+  "PHSX 536": {
+    "4212": {
+      "miniDesc": "PHSX 536 Physics - Electronic Circuit Msrmnt&Dsgn ( 4 / LFE / N )",
+      "description": "A laboratory course that explores the theory and experimental techniques of analog and digital electronic circuit design and measurement. Topics include transient response, transmission lines, transistors, operational amplifiers, and digital logic. (Same as EPHX 536.) Prerequisite: PHSX 214 or PHSX 212 and PHSX 236; MATH 127; and MATH 290. PHSX 313 and 316 recommended. Satisfies: Lab and Field Experiences (LFE) , N Natural Science (N)",
+      "terms": [
+        "4212",
+        "4219"
+      ]
+    },
+    "4222": {
+      "miniDesc": "PHSX 536 Physics - Electronic Circuit Msrmnt&Dsgn ( 4 / LFE / N )",
+      "description": "A laboratory course that explores the theory and experimental techniques of analog and digital electronic circuit design and measurement. Topics include transient response, transmission lines, transistors, operational amplifiers, and digital logic. (Same as EPHX 536.) Prerequisite: PHSX 214 or PHSX 212 and PHSX 236; MATH 127 or MATH 147; and MATH 290 or MATH 291. PHSX 313 and 316 recommended. Satisfies: Lab and Field Experiences (LFE) , N Natural Science (N)",
+      "terms": [
+        "4222",
+        "4229",
+        "4232"
+      ]
+    }
+  },
+  "PHSX 594": {
+    "4222": {
+      "miniDesc": "PHSX 594 Physics - Cosmology and Culture ( 3 / AE42 / N )",
+      "description": "A survey of modern physical cosmology, its recent historical roots, and creation myths from many world cultures. An examination of the effects of these stories on their parent cultures. Satisfies: Goal 4 Outcome 2 (AE42) , N Natural Science (N)",
+      "terms": [
+        "4222"
+      ]
+    }
+  },
+  "PHSX 598": {
+    "4212": {
+      "miniDesc": "PHSX 598 Physics - Research Methods ( 3 / LFE / N )",
+      "description": "An introduction for pre-service teachers to the tools used by scientists to solve scientific problems. Topics include design of experiments and interpretation of their results, use of statistics, mathematical modeling, laboratory safety, ethical treatment of human subjects, writing scientific papers, giving oral presentations, and obtaining data from the scientific literature. Open only to students in the UKanTeach program. (Same as CHEM 598.) Prerequisite: At least one course at the 100 level or above in CHEM, MATH, or PHSX. Satisfies: Lab and Field Experiences (LFE) , N Natural Science (N)",
+      "terms": [
+        "4212"
+      ]
+    }
+  },
+  "PHSX 601": {
+    "4212": {
+      "miniDesc": "PHSX 601 Physics - Desgn Physical&Electronic Syst ( 4 / AE61 / LFE / N )",
+      "description": "A laboratory course emphasizing the application of physical principles to the design of systems for research, monitoring, or control. Topics include the use of microcomputers as controllers, interfacing microcomputers with measurement devices, and use of approximations and/or computer simulation to optimize design parameters, linear control systems, and noise. (Same as EPHX 601.) Prerequisite: Twelve hours of junior-senior credit in physics or engineering, including one laboratory course. Satisfies: Goal 6 Outcome 1 (AE61) , Lab and Field Experiences (LFE) , N Natural Science (N)",
+      "terms": [
+        "4212",
+        "4222",
+        "4232"
+      ]
+    }
+  },
+  "PHSX 611": {
+    "4222": {
+      "miniDesc": "PHSX 611 Physics - Introductory Quantum Mechanics ( 3 / N )",
+      "description": "An introduction to quantum mechanics, emphasizing a physical overview. Topics include the formalism of nonrelativistic quantum mechanics with emphasis on linear algebra, the 3-dimensional Schrodinger equation with applications to the hydrogen atom; harmonic oscillator; and time-independent perturbation theory. (Same as EPHX 511.) Prerequisite: PHSX 313, PHSX 521 or EPHX 521, and MATH 290 or MATH 291. Satisfies: N Natural Science (N)",
+      "terms": [
+        "4222",
+        "4232"
+      ]
+    }
+  },
+  "PHSX 615": {
+    "4222": {
+      "miniDesc": "PHSX 615 Physics - Numerical&Computatnl Mthd Phsx ( 3 / N )",
+      "description": "An introduction to the use of numerical methods in the solution of problems in physics for which simplifications allowing closed-form solutions are not applicable. Examples are drawn from mechanics, electricity, magnetism, thermodynamics, and optics. (Same as EPHX 615.) Prerequisite: PHSX 313, MATH 320 or equivalent, and EECS 138 or equivalent. Satisfies: N Natural Science (N)",
+      "terms": [
+        "4222",
+        "4232"
+      ]
+    }
+  },
+  "PHSX 616": {
+    "4229": {
+      "miniDesc": "PHSX 616 Physics - Physical Measurements ( 4 / LFE / N )",
+      "description": "A laboratory course emphasizing experimental techniques and data analysis, as well as scientific writing and presentation skills. Experiments will explore a range of classical and modern physics topics. Students will also practice ethical decision making using case studies appropriate for the discipline. (Same as EPHX 616.) Prerequisite: PHSX 313, PHSX 316 or EPHX 316, and PHSX 521 or EPHX 521. (PHSX 521 or EPHX 521 may be taken concurrently.) Satisfies: Lab and Field Experiences (LFE) , N Natural Science (N)",
+      "terms": [
+        "4229",
+        "4232"
+      ]
+    }
+  },
+  "PHSX 621": {
+    "4212": {
+      "miniDesc": "PHSX 621 Physics - Mechanics II ( 3 / N )",
+      "description": "Continuation of PHSX 521. Lagrange's equations and generalized coordinates. Mechanics of continuous media. Tensor algebra and rotation of a rigid body. Special relativity and relativistic dynamics. (Same as EPHX 621.) Prerequisite: EPHX 521 or PHSX 521. Satisfies: N Natural Science (N)",
+      "terms": [
+        "4212",
+        "4222",
+        "4232"
+      ]
+    }
+  },
+  "PHSX 631": {
+    "4212": {
+      "miniDesc": "PHSX 631 Physics - Electromagnetic Theory ( 3 / N )",
+      "description": "Maxwell's equations, wave propagation, optics and waveguides, radiation, relativistic transformations of fields and sources, use of covariance and invariance in relativity. Normally a continuation of PHSX 531. (Same as EPHX 631.) Prerequisite: EPHX 531 or PHSX 531. Satisfies: N Natural Science (N)",
+      "terms": [
+        "4212",
+        "4222",
+        "4232"
+      ]
+    }
+  },
+  "PHSX 641": {
+    "4222": {
+      "miniDesc": "PHSX 641 Physics - Introduction to Nuclear Physcs ( 3 / N )",
+      "description": "Experimental methods in nuclear physics, elementary concepts and simple considerations about nuclear forces, alpha and beta decay, gamma radiation, nuclear structure, and reaction systematics. (Same as EPHX 641.) Prerequisite: PHSX 313 and PHSX 511. Satisfies: N Natural Science (N)",
+      "terms": [
+        "4222"
+      ]
+    }
+  },
+  "PHSX 655": {
+    "4212": {
+      "miniDesc": "PHSX 655 Physics - Optics ( 3 / N )",
+      "description": "Geometric optics. Wave properties of light: interference, diffraction, coherence. Propagation of light through matter. Selected topics in modern optics, e.g., lasers, fibers. (Same as EPHX 655.) Prerequisite: PHSX 531 or EPHX 531 or PHSX 212 or PHSX 214 and special permission from instructor. Satisfies: N Natural Science (N)",
+      "terms": [
+        "4212",
+        "4222"
+      ]
+    }
+  },
+  "PHSX 661": {
+    "4212": {
+      "miniDesc": "PHSX 661 Physics - Intro Elemntry Particle Physcs ( 3 / N )",
+      "description": "Properties and interactions of quarks, leptons, and other elementary particles; symmetry principles and conservation laws; broken symmetry; gauge bosons; the fundamental interactions, grand unified theories of strong, electromagnetic, and weak interactions; the cosmological implications of elementary particle physics. (Same as EPHX 661.) Prerequisite: PHSX 511 and MATH 320. Satisfies: N Natural Science (N)",
+      "terms": [
+        "4212"
+      ]
+    },
+    "4232": {
+      "miniDesc": "PHSX 661 Physics - Intro Elemntry Particle Physcs ( 3 / N )",
+      "description": "This course covers properties and interactions of quarks, leptons, and other elementary particles; symmetry principles and conservation laws; broken symmetry; gauge bosons; the fundamental interactions, grand unified theories of strong, electromagnetic, and weak interactions; the cosmological implications of elementary particle physics. (Same as EPHX 661.) Prerequisite: PHSX 611 or EPHX 611, and MATH 320. Satisfies: N Natural Science (N)",
+      "terms": [
+        "4232"
+      ]
+    }
+  },
+  "PHSX 671": {
+    "4219": {
+      "miniDesc": "PHSX 671 Physics - Thermal Physics ( 3 / N )",
+      "description": "Development of thermodynamics from statistical considerations. Techniques of calculating thermodynamic properties of systems. Application to classical problems of thermodynamics. Elementary kinetic theory of transport processes. Fermi-Dirac and Bose-Einstein systems. (Same as EPHX 671.) Prerequisite: PHSX 511. Satisfies: N Natural Science (N)",
+      "terms": [
+        "4219"
+      ]
+    },
+    "4229": {
+      "miniDesc": "PHSX 671 Physics - Thermal Physics ( 3 / N )",
+      "description": "This course introduces thermodynamics from statistical considerations and presents the associated techniques for calculating the thermodynamic properties of systems. Highlighted applications of these techniques include the elementary kinetic theory of transport processes and statistical descriptions of both Fermi-Dirac and Bose-Einstein systems. (Same as EPHX 671.) Prerequisite: PHSX 611 or EPHX 611. Satisfies: N Natural Science (N)",
+      "terms": [
+        "4229"
+      ]
+    }
+  },
+  "PHSX 681": {
+    "4219": {
+      "miniDesc": "PHSX 681 Physics - Concepts in Solids ( 3 / N )",
+      "description": "Properties of common types of crystals and amorphous solids. Lattice vibrations and thermal properties of solids. Electrons and holes in energy bands of metals, semiconductors, superconductors, and insulators. (Same as EPHX 681.) Prerequisite: PHSX 313 and PHSX 511. Satisfies: N Natural Science (N)",
+      "terms": [
+        "4219"
+      ]
+    },
+    "4232": {
+      "miniDesc": "PHSX 681 Physics - Concepts in Solids ( 3 / N )",
+      "description": "This course is an introduction to the properties of crystals and amorphous solids, including lattice vibrations and thermal properties, with a particular emphasis on the behavior of electrons and holes in the energy bands of metals, semiconductors, superconductors, and insulators. (Same as EPHX 681.) Prerequisite: PHSX 313 and PHSX 611 or EPHX 611. Satisfies: N Natural Science (N)",
+      "terms": [
+        "4232"
+      ]
+    }
+  },
+  "PHSX 691": {
+    "4229": {
+      "miniDesc": "PHSX 691 Physics - Astrophysics I ( 3 / N )",
+      "description": "An introduction to radiation processes, thermal processes, and radiative transfer in stellar atmospheres and the interstellar medium. (Same as ASTR 691 and EPHX 691.) Prerequisite: PHSX 313 or consent of instructor. Satisfies: N Natural Science (N)",
+      "terms": [
+        "4229"
+      ]
+    }
+  },
+  "PHSX 693": {
+    "4212": {
+      "miniDesc": "PHSX 693 Physics - Gravitation and Cosmology ( 3 / N )",
+      "description": "An overview of topics relevant to gravitation and modern cosmology: special relativity, tensor notation, the equivalence principle, the Schwarzschild solution, black holes, and Friedmann models. Cosmic black body radiation, dark matter, and the formation of large-scale structure. The idea of quantum gravity and an introduction to the current literature in cosmology. (Same as EPHX 693.) Prerequisite: PHSX 313 and MATH 320. Satisfies: N Natural Science (N)",
+      "terms": [
+        "4212",
+        "4232"
+      ]
+    }
+  },
+  "PHSX 700": {
+    "4212": {
+      "miniDesc": "PHSX 700 Physics - Colloquium ( 1 )",
+      "description": "Topics of current interest in physics, astronomy, and atmospheric science. Repeated enrollments are permitted.",
+      "terms": [
+        "4212",
+        "4219",
+        "4222",
+        "4229",
+        "4232"
+      ]
+    }
+  },
+  "PHSX 702": {
+    "4219": {
+      "miniDesc": "PHSX 702 Physics - Introductory Physics Pedagogy ( 1 )",
+      "description": "This course will address basic elements of pedagogy in specific relation to the teaching of physics and astronomy labs. It contains such elements as: peer and instructor evaluations of teaching, reading and discussion of pedagogical materials, development of online course material, and discussion of teaching methods. This course may be repeated for credit. Prerequisite: Permission of instructor.",
+      "terms": [
+        "4219",
+        "4229"
+      ]
+    }
+  },
+  "PHSX 703": {
+    "4212": {
+      "miniDesc": "PHSX 703 Physics - Proposal Writing ( 1 )",
+      "description": "Means and methods for preparing a successful proposal. This course will discuss how to find funding and other award opportunities. Students will learn how to develop an effective application and will complete an application. Intended for early career graduate students and advanced undergraduate students.",
+      "terms": [
+        "4212",
+        "4222"
+      ]
+    }
+  },
+  "PHSX 711": {
+    "4219": {
+      "miniDesc": "PHSX 711 Physics - Quantum Mechanics I ( 3 )",
+      "description": "Linear vector spaces. Postulates of quantum mechanics. Schrodinger equation. Harmonic oscillator and other problems in one dimension. Central forces and angular momentum. Symmetries and conservation laws. The hydrogen atom. Spin. Spin and statistics. Addition of angular momenta. Time independent approximation methods. Prerequisite: PHSX 511 and MATH 320.",
+      "terms": [
+        "4219"
+      ]
+    },
+    "4229": {
+      "miniDesc": "PHSX 711 Physics - Quantum Mechanics I ( 3 )",
+      "description": "Linear vector spaces. Bra-ket notation for abstract vector spaces and its applications in quantum mechanics. Angular momentum and Clebsch Gordan coefficients. Product spaces; Heisenberg picture. Spin. Fermi-Dirac and Bose-Einstein statistics. Time independent perturbation theory of first and second order. Prerequisite: PHSX 611 or EPHX 611, MATH 220 or MATH 221 or MATH 320.",
+      "terms": [
+        "4229"
+      ]
+    }
+  },
+  "PHSX 717": {
+    "4219": {
+      "miniDesc": "PHSX 717 Physics - Graduate Seminar ( 1 )",
+      "description": "First year graduate students meet to survey research opportunities in the department and develop skills in giving oral presentations in physics and related areas. Students will also learn about topics in responsible scholarship that may include: the origin of ideas and the allocation of credit, the treatment of data, scientific misconduct, intellectual property and entrepreneurship, the researcher in society, collaborative research, mentor/trainee responsibilities, and safe practices.",
+      "terms": [
+        "4219",
+        "4229"
+      ]
+    }
+  },
+  "PHSX 718": {
+    "4219": {
+      "miniDesc": "PHSX 718 Physics - Mathematical Mthds Physicl Sci ( 3 )",
+      "description": "Review of complex variable theory; introduction to the partial differential equations of physical systems; Fourier analysis; special functions of mathematical physics; and chemistry. (Same as CHEM 718.) Prerequisite: Two semesters of junior-senior mathematics.",
+      "terms": [
+        "4219",
+        "4229"
+      ]
+    }
+  },
+  "PHSX 719": {
+    "4212": {
+      "miniDesc": "PHSX 719 Physics - Physc&Astrnmy Grad Prblm Slvng ( 1 )",
+      "description": "This course teaches students skills in solving graduate level physics and astronomy problems. Graded on a satisfactory/unsatisfactory basis.",
+      "terms": [
+        "4212",
+        "4219",
+        "4222",
+        "4229",
+        "4232"
+      ]
+    }
+  },
+  "PHSX 727": {
+    "4219": {
+      "miniDesc": "PHSX 727 Physics - Advanced Geophysics: ( 1-3 )",
+      "description": "Topics to vary with demand and include heat flow, wave propagation, synthetic seismograms, groundwater exploration, geothermal exploration, electrical methods in exploration, rock mechanics-tectonophysics, rock magnetism, geomagnetism, paleomagnetism, geophysical inverse theory, and others upon sufficient demand. May be repeated for different topics. (Same as GEOL 771.) Prerequisite: GEOL 572 or consent of instructor.",
+      "terms": [
+        "4219"
+      ]
+    }
+  },
+  "PHSX 741": {
+    "4222": {
+      "miniDesc": "PHSX 741 Physics - Nuclear Physics I ( 3 )",
+      "description": "Experimental methods in nuclear physics, elementary concepts and simple considerations about nuclear forces, alpha and beta decay, gamma radiation, nuclear structure, and reaction systematics. Prerequisite: PHSX 511.",
+      "terms": [
+        "4222"
+      ]
+    }
+  },
+  "PHSX 761": {
+    "4212": {
+      "miniDesc": "PHSX 761 Physics - Elementary Particles I ( 3 )",
+      "description": "Particle accelerators and detectors; quarks and leptons; invariance principles and conservation laws; strong, electromagnetic, and weak interactions of elementary particles; unification of electroweak and other interactions. Prerequisite: Corequisite: PHSX 711.",
+      "terms": [
+        "4212",
+        "4232"
+      ]
+    }
+  },
+  "PHSX 781": {
+    "4219": {
+      "miniDesc": "PHSX 781 Physics - Solid State Physics I ( 3 )",
+      "description": "Classification of solids, structure and symmetry of crystals; lattice vibrations and thermal properties of solids; electric and magnetic properties; electron theory of metals and semiconductors; electronic and atomic transport processes; theory of ionic crystals. Prerequisite: PHSX 511 (or CHEM 648) and PHSX 671 (or CHEM 646).",
+      "terms": [
+        "4219",
+        "4232"
+      ]
+    }
+  },
+  "PHSX 791": {
+    "4212": {
+      "miniDesc": "PHSX 791 Physics - Seminar in Astrophysics, Cosmo ( 1-3 )",
+      "description": "Seminar designed to cover current topics in the physics of the Universe beyond the solar system. Content will vary. Graduate students engaged in or preparing for research may repeat enrollments in this course. Open to undergraduates with twelve hours of physics/astronomy courses numbered 500 or above, or consent of instructor.",
+      "terms": [
+        "4212",
+        "4219",
+        "4222"
+      ]
+    },
+    "4229": {
+      "miniDesc": "PHSX 791 Physics - Seminar in Astrophysics, Cosmo ( 1 )",
+      "description": "Seminar designed to cover current topics in the physics of the Universe beyond the solar system. Content will vary. Graduate students engaged in or preparing for research may repeat enrollments in this course. Open to undergraduates with twelve hours of physics/astronomy courses numbered 500 or above, or consent of instructor.",
+      "terms": [
+        "4229",
+        "4232"
+      ]
+    }
+  },
+  "PHSX 792": {
+    "4219": {
+      "miniDesc": "PHSX 792 Physics - Topics Advanced Astrophysics ( 3 )",
+      "description": "This course will address one or more of the following advanced topics in astrophysics: high energy astrophysics, nuclear astrophysics, galactic and extragalactic astrophysics, space physics, cosmology, astrobiophysics, and the interstellar and intergalactic media (ISM/IGM). This course may be repeated for credit if topical content differs. (Same as ASTR 792.) Prerequisite: ASTR 692 or permission of instructor.",
+      "terms": [
+        "4219",
+        "4222",
+        "4229"
+      ]
+    }
+  },
+  "PHSX 793": {
+    "4212": {
+      "miniDesc": "PHSX 793 Physics - Physical Cosmology ( 3 )",
+      "description": "Discussion of how fundamental laws of physics govern the evolution of the universe as a whole along with its structure. Survey of cosmogenic clues in the observable universe, including observed structures, cosmic background radiation and evidence for dark matter. Development of the universe, including theories of initial conditions; cosmological phase transitions; generation of possible relics and dark matter; symmetry breaking; baryon asymmetry; nucleosynthesis; recombination, gravitational instability and the formation of structure; current experimental techniques. Prerequisite: PHSX 718. Recommended: PHSX 693.",
+      "terms": [
+        "4212",
+        "4232"
+      ]
+    }
+  },
+  "PHSX 795": {
+    "4219": {
+      "miniDesc": "PHSX 795 Physics - Space Plasma Physics ( 3 )",
+      "description": "The physics of fully ionized gases in magnetic fields and their application to interplanetary processes, planetary radiation belts, and the sun. The motion of charged particles in magnetic fields, magnetohydrodynamic waves, the solar wind, the ionosphere, and the magnetosphere. (Same as ASTR 795.) Prerequisite: PHSX 621. Corequisite: PHSX 631.",
+      "terms": [
+        "4219"
+      ]
+    }
+  },
+  "PHSX 800": {
+    "4212": {
+      "miniDesc": "PHSX 800 Physics - Graduate Problems ( 1-5 )",
+      "description": "Advanced laboratory problems, special research problems, or library reading problems. Repeated enrollments are permitted.",
+      "terms": [
+        "4212",
+        "4216",
+        "4219",
+        "4222",
+        "4226",
+        "4229",
+        "4232"
+      ]
+    }
+  },
+  "PHSX 811": {
+    "4212": {
+      "miniDesc": "PHSX 811 Physics - Quantum Mechanics II ( 3 )",
+      "description": "Time dependent perturbation theory. Gauge invariance and electromagnetic interactions. Quantization of the electromagnetic field and applications. The Dirac equation, its transformation properties and applications to relativistic problems. Scattering theory, elementary applications, and formal properties. Prerequisite: PHSX 711.",
+      "terms": [
+        "4212",
+        "4222"
+      ]
+    },
+    "4232": {
+      "miniDesc": "PHSX 811 Physics - Quantum Mechanics II ( 3 )",
+      "description": "This advanced course in quantum mechanics covers scattering theory, time dependent perturbation theory, density-matrix formalism, entanglement, and relativistic quantum mechanics, e.g. Klein-Gordon and Dirac equations. Additional advanced topics may be covered at the discretion of the instructor. Prerequisite: PHSX 711.",
+      "terms": [
+        "4232"
+      ]
+    }
+  },
+  "PHSX 815": {
+    "4212": {
+      "miniDesc": "PHSX 815 Physics - Computatnl Methods Phys Scienc ( 3 )",
+      "description": "Advanced computer applications in physical science. General discussion and illustration of problem organization and solution by numerical and other methods with examples from physics, astronomy, and other physical sciences. Students will design, write, validate, and document computer programs to solve physical problems. (Same as ASTR 815 and CHEM 914.) Prerequisite: Six hours of computer science courses numbered 300 or above, and six hours of physics and/or astronomy courses numbered 300 or above.",
+      "terms": [
+        "4212",
+        "4222",
+        "4232"
+      ]
+    }
+  },
+  "PHSX 821": {
+    "4219": {
+      "miniDesc": "PHSX 821 Physics - Classical Mechanics ( 3 )",
+      "description": "Vector and tensor notation; review of Newtonian mechanics; Lagrangian mechanics; linear vector spaces and matrix theory with applications to the theory of small oscillations; rigid bodies; Hamiltonian formalism. Special relativity. Prerequisite: Twelve hours of junior-senior courses in physics.",
+      "terms": [
+        "4219",
+        "4229"
+      ]
+    }
+  },
+  "PHSX 831": {
+    "4212": {
+      "miniDesc": "PHSX 831 Physics - Electrodynamics I ( 3 )",
+      "description": "Electrostatics and magnetostatics; Maxwell's equations; plane waves; waveguides. Prerequisite: PHSX 718 and PHSX 821.",
+      "terms": [
+        "4212",
+        "4222",
+        "4232"
+      ]
+    }
+  },
+  "PHSX 855": {
+    "4222": {
+      "miniDesc": "PHSX 855 Physics - Advanced Optics ( 3 )",
+      "description": "Advanced topics in optics that may include: Laser principles and techniques, light propagation in dielectrics, absorption and luminescence, interaction of light with free electrons and phonons, nonlinear optics, photonic devices, and optical spectroscopy.",
+      "terms": [
+        "4222"
+      ]
+    }
+  },
+  "PHSX 861": {
+    "4219": {
+      "miniDesc": "PHSX 861 Physics - Elementary Particles II ( 3 )",
+      "description": "Theoretical analysis of the standard model of strong and electroweak interactions. Applications to decay and scattering processes with comparison to experiments. Selected topics in non-perturbative physics. Examples of tests to probe beyond the standard model. Prerequisite: PHSX 761. Corequisite: PHSX 911.",
+      "terms": [
+        "4219"
+      ]
+    }
+  },
+  "PHSX 871": {
+    "4219": {
+      "miniDesc": "PHSX 871 Physics - Statistical Physics I ( 3 )",
+      "description": "Review of and advanced topics in thermodynamics; the Maxwell relations; the third law; phase transitions. Kinetic theory: the Boltzmann equation; transport phenomena. Statistical mechanics: ideal Maxwell-Boltzmann, Fermi-Dirac and Bose-Einstein gases; ensemble theory; derivation of the laws of thermodynamics. Prerequisite: PHSX 711 and PHSX 821. PHSX 671 is recommended.",
+      "terms": [
+        "4219",
+        "4232"
+      ]
+    }
+  },
+  "PHSX 881": {
+    "4229": {
+      "miniDesc": "PHSX 881 Physics - Solid State Physics II ( 3 )",
+      "description": "More advanced topics in solid state physics that may include: diamagnetism, paramagnetism, ferromagnetism, and antiferromagnetism; electron and nuclear spin magnetic resonance; dielectric properties and ferroelectricity; photoconductivity and luminescence. Prerequisite: PHSX 631 and PHSX 711 (or CHEM 750).",
+      "terms": [
+        "4229"
+      ]
+    }
+  },
+  "PHSX 899": {
+    "4212": {
+      "miniDesc": "PHSX 899 Physics - Master's Research/Thesis ( 1-10 )",
+      "description": "Research work (either experimental or theoretical) in physics for students working toward the master's degree. Repeated enrollments are permitted. Graded on a satisfactory progress/limited progress/no progress basis.",
+      "terms": [
+        "4212",
+        "4216",
+        "4219",
+        "4222",
+        "4226",
+        "4229",
+        "4232"
+      ]
+    }
+  },
+  "PHSX 911": {
+    "4229": {
+      "miniDesc": "PHSX 911 Physics - Quantum Mechanics III ( 3 )",
+      "description": "Path integral formulation of quantum mechanics. Introduction to quantum field theory using the canonical approach and using the path integral approach. Application of perturbation theory in quantum electrodynamics. Selected applications in condensed matter, nuclear, and particle physics. Prerequisite: PHSX 811.",
+      "terms": [
+        "4229"
+      ]
+    }
+  },
+  "PHSX 915": {
+    "4222": {
+      "miniDesc": "PHSX 915 Physics - Relativity ( 3 )",
+      "description": "Reviews of special relativity, manifolds, tensors, and geometry. General coordinate covariance and general relativity. Applications to classical theory of gravitation: weak field tests, isotropic, homogeneous cosmology, Schwarzschild solution. Selected advanced topics. Prerequisite: A total of 10 hours of junior/senior work in physics and mathematics, including at least concurrent enrollment in MATH 646.",
+      "terms": [
+        "4222"
+      ]
+    }
+  },
+  "PHSX 917": {
+    "4212": {
+      "miniDesc": "PHSX 917 Physics - Seminar in Theoretical Physics ( 1-3 )",
+      "description": "Graduate students engaged in or preparing for research may repeat enrollments in this course. The content will vary.",
+      "terms": [
+        "4212",
+        "4219",
+        "4222"
+      ]
+    },
+    "4229": {
+      "miniDesc": "PHSX 917 Physics - Seminar in Theoretical Physics ( 1 )",
+      "description": "Graduate students engaged in or preparing for research may repeat enrollments in this course. The content will vary.",
+      "terms": [
+        "4229",
+        "4232"
+      ]
+    }
+  },
+  "PHSX 931": {
+    "4219": {
+      "miniDesc": "PHSX 931 Physics - Electrodynamics II ( 3 )",
+      "description": "Inhomogeneous Maxwell's equations and multipole radiation fields; special theory of relativity; radiation from accelerated charges; scattering and dispersion. Prerequisite: PHSX 831.",
+      "terms": [
+        "4219"
+      ]
+    }
+  },
+  "PHSX 947": {
+    "4212": {
+      "miniDesc": "PHSX 947 Physics - Seminar in Nuclear Physics ( 1-3 )",
+      "description": "Graduate students engaged in or preparing for research may repeat enrollments in this course. The content will vary.",
+      "terms": [
+        "4212",
+        "4219",
+        "4222"
+      ]
+    },
+    "4229": {
+      "miniDesc": "PHSX 947 Physics - Seminar in Nuclear Physics ( 1 )",
+      "description": "Graduate students engaged in or preparing for research may repeat enrollments in this course. The content will vary.",
+      "terms": [
+        "4229",
+        "4232"
+      ]
+    }
+  },
+  "PHSX 957": {
+    "4212": {
+      "miniDesc": "PHSX 957 Physics - Seminar in Physics Edctn Rsrch ( 1-3 )",
+      "description": "Seminar designed to cover current topics in physics education research. Content will vary. Graduate students engaged in or preparing for research may repeat enrollments in this course.",
+      "terms": [
+        "4212",
+        "4219",
+        "4222"
+      ]
+    },
+    "4229": {
+      "miniDesc": "PHSX 957 Physics - Seminar in Physics Edctn Rsrch ( 1 )",
+      "description": "Seminar designed to cover current topics in physics education research. Content will vary. Graduate students engaged in or preparing for research may repeat enrollments in this course.",
+      "terms": [
+        "4229",
+        "4232"
+      ]
+    }
+  },
+  "PHSX 967": {
+    "4212": {
+      "miniDesc": "PHSX 967 Physics - Seminar in Particle Physics ( 1-3 )",
+      "description": "Graduate students engaged in or preparing for research may repeat enrollments in this course. The content will vary.",
+      "terms": [
+        "4212",
+        "4219",
+        "4222"
+      ]
+    },
+    "4229": {
+      "miniDesc": "PHSX 967 Physics - Seminar in Particle Physics ( 1 )",
+      "description": "Graduate students engaged in or preparing for research may repeat enrollments in this course. The content will vary.",
+      "terms": [
+        "4229",
+        "4232"
+      ]
+    }
+  },
+  "PHSX 987": {
+    "4212": {
+      "miniDesc": "PHSX 987 Physics - Seminar in Solid State Physics ( 1-3 )",
+      "description": "Graduate students engaged in or preparing for research may repeat enrollments in this course. The content will vary.",
+      "terms": [
+        "4212",
+        "4219",
+        "4222"
+      ]
+    },
+    "4229": {
+      "miniDesc": "PHSX 987 Physics - Seminar in Solid State Physics ( 1 )",
+      "description": "Graduate students engaged in or preparing for research may repeat enrollments in this course. The content will vary.",
+      "terms": [
+        "4229",
+        "4232"
+      ]
+    }
+  },
+  "PHSX 999": {
+    "4212": {
+      "miniDesc": "PHSX 999 Physics - Ph.D. Dissertation Research ( 1-12 )",
+      "description": "Research work (either experimental or theoretical) in physics for students working toward the Ph.D. degree. Repeated enrollments are permitted. Graded on a satisfactory progress/limited progress/no progress basis.",
+      "terms": [
+        "4212",
+        "4216",
+        "4219",
+        "4222",
+        "4226",
+        "4229",
+        "4232"
+      ]
+    }
+  }
+}

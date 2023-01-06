@@ -35,3 +35,23 @@ options:
 ### Examples
 
 `python scrapy.py PHSX .\data\PHSX.json 2021 spring 2023 spring`
+
+## Data_Munger.py Usage
+
+```
+usage: data_munger.py [-h] [-s]
+
+KU class information tool
+
+options:
+  -h, --help      show this help message and exit
+  -s, --simplify  Simplify data file
+```
+
+### Examples
+
+```
+python .\data_munger.py -s
+Input file path: ./data/PHSX.json
+Output file path: ./simple_data/phsx.json
+```
